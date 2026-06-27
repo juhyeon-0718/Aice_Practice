@@ -1,0 +1,1202 @@
+[
+  {
+    "ApplicantID": 1,
+    "Age": 36,
+    "Income_USD": 161932,
+    "CreditScore": 406,
+    "LoanAmount_USD": 81820,
+    "LoanTerm_months": 24,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 2,
+    "Age": 45,
+    "Income_USD": 117498,
+    "CreditScore": 672,
+    "LoanAmount_USD": 49131,
+    "LoanTerm_months": 36,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 3,
+    "Age": 51,
+    "Income_USD": 89735,
+    "CreditScore": 685,
+    "LoanAmount_USD": 10311,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 4,
+    "Age": 43,
+    "Income_USD": 105305,
+    "CreditScore": null,
+    "LoanAmount_USD": 98016,
+    "LoanTerm_months": 12,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 5,
+    "Age": 49,
+    "Income_USD": 142537,
+    "CreditScore": 489,
+    "LoanAmount_USD": 89654,
+    "LoanTerm_months": 36,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 6,
+    "Age": 24,
+    "Income_USD": 51551,
+    "CreditScore": 784,
+    "LoanAmount_USD": 8890,
+    "LoanTerm_months": 60,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 7,
+    "Age": 46,
+    "Income_USD": 171699,
+    "CreditScore": 615,
+    "LoanAmount_USD": 78969,
+    "LoanTerm_months": 24,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 8,
+    "Age": 49,
+    "Income_USD": 154243,
+    "CreditScore": 666,
+    "LoanAmount_USD": 28483,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 9,
+    "Age": 35,
+    "Income_USD": 126530,
+    "CreditScore": 380,
+    "LoanAmount_USD": 97067,
+    "LoanTerm_months": 24,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 10,
+    "Age": 27,
+    "Income_USD": 217629,
+    "CreditScore": 405,
+    "LoanAmount_USD": 57995,
+    "LoanTerm_months": 60,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 11,
+    "Age": 55,
+    "Income_USD": 222283,
+    "CreditScore": 501,
+    "LoanAmount_USD": 97093,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 12,
+    "Age": 29,
+    "Income_USD": 31534,
+    "CreditScore": 761,
+    "LoanAmount_USD": 96387,
+    "LoanTerm_months": 12,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 13,
+    "Age": 39,
+    "Income_USD": 53247,
+    "CreditScore": 352,
+    "LoanAmount_USD": 91807,
+    "LoanTerm_months": 24,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 14,
+    "Age": 62,
+    "Income_USD": 169643,
+    "CreditScore": 456,
+    "LoanAmount_USD": 56214,
+    "LoanTerm_months": 60,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 15,
+    "Age": 45,
+    "Income_USD": 32568,
+    "CreditScore": 428,
+    "LoanAmount_USD": 72563,
+    "LoanTerm_months": 36,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 16,
+    "Age": 56,
+    "Income_USD": 393070,
+    "CreditScore": 588,
+    "LoanAmount_USD": 17666,
+    "LoanTerm_months": 60,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 17,
+    "Age": 49,
+    "Income_USD": 134488,
+    "CreditScore": 434,
+    "LoanAmount_USD": 13392,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 18,
+    "Age": 44,
+    "Income_USD": 157478,
+    "CreditScore": 398,
+    "LoanAmount_USD": 89651,
+    "LoanTerm_months": 36,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 19,
+    "Age": 35,
+    "Income_USD": 143252,
+    "CreditScore": 304,
+    "LoanAmount_USD": 11910,
+    "LoanTerm_months": 36,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 20,
+    "Age": 63,
+    "Income_USD": 238969,
+    "CreditScore": 760,
+    "LoanAmount_USD": 55015,
+    "LoanTerm_months": 12,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 21,
+    "Age": 51,
+    "Income_USD": 107939,
+    "CreditScore": 784,
+    "LoanAmount_USD": 76910,
+    "LoanTerm_months": 60,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 22,
+    "Age": 34,
+    "Income_USD": 184899,
+    "CreditScore": null,
+    "LoanAmount_USD": 86734,
+    "LoanTerm_months": 36,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 23,
+    "Age": 63,
+    "Income_USD": 73585,
+    "CreditScore": 327,
+    "LoanAmount_USD": 74163,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 24,
+    "Age": 49,
+    "Income_USD": 38047,
+    "CreditScore": 772,
+    "LoanAmount_USD": 49262,
+    "LoanTerm_months": 12,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 25,
+    "Age": 34,
+    "Income_USD": 222445,
+    "CreditScore": 558,
+    "LoanAmount_USD": 63053,
+    "LoanTerm_months": 36,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 26,
+    "Age": 45,
+    "Income_USD": 43545,
+    "CreditScore": 673,
+    "LoanAmount_USD": 66087,
+    "LoanTerm_months": 12,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 27,
+    "Age": 33,
+    "Income_USD": 207648,
+    "CreditScore": 809,
+    "LoanAmount_USD": 70318,
+    "LoanTerm_months": 24,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 28,
+    "Age": 38,
+    "Income_USD": 246688,
+    "CreditScore": 412,
+    "LoanAmount_USD": 99209,
+    "LoanTerm_months": 24,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 29,
+    "Age": 53,
+    "Income_USD": 406288,
+    "CreditScore": 524,
+    "LoanAmount_USD": 60680,
+    "LoanTerm_months": 36,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 30,
+    "Age": 47,
+    "Income_USD": 80859,
+    "CreditScore": 715,
+    "LoanAmount_USD": 68734,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 31,
+    "Age": 38,
+    "Income_USD": 138906,
+    "CreditScore": 593,
+    "LoanAmount_USD": 72863,
+    "LoanTerm_months": 60,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 32,
+    "Age": 32,
+    "Income_USD": 23509,
+    "CreditScore": 810,
+    "LoanAmount_USD": 85623,
+    "LoanTerm_months": 12,
+    "EmploymentType": "Unemployed",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 33,
+    "Age": 50,
+    "Income_USD": 81663,
+    "CreditScore": 702,
+    "LoanAmount_USD": 39754,
+    "LoanTerm_months": 36,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 34,
+    "Age": 62,
+    "Income_USD": 234835,
+    "CreditScore": 637,
+    "LoanAmount_USD": 16111,
+    "LoanTerm_months": 12,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 35,
+    "Age": 44,
+    "Income_USD": 69384,
+    "CreditScore": 714,
+    "LoanAmount_USD": 90981,
+    "LoanTerm_months": 24,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 36,
+    "Age": 47,
+    "Income_USD": 150975,
+    "CreditScore": 301,
+    "LoanAmount_USD": 36616,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 37,
+    "Age": 30,
+    "Income_USD": 212506,
+    "CreditScore": 532,
+    "LoanAmount_USD": 47642,
+    "LoanTerm_months": 36,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 38,
+    "Age": 54,
+    "Income_USD": 146071,
+    "CreditScore": 719,
+    "LoanAmount_USD": 58351,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 39,
+    "Age": 46,
+    "Income_USD": 163629,
+    "CreditScore": 398,
+    "LoanAmount_USD": 7200,
+    "LoanTerm_months": 60,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 40,
+    "Age": 23,
+    "Income_USD": 149121,
+    "CreditScore": 462,
+    "LoanAmount_USD": 66135,
+    "LoanTerm_months": 60,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 41,
+    "Age": 54,
+    "Income_USD": 68467,
+    "CreditScore": 697,
+    "LoanAmount_USD": 96412,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 42,
+    "Age": 24,
+    "Income_USD": 197286,
+    "CreditScore": 700,
+    "LoanAmount_USD": 75271,
+    "LoanTerm_months": 12,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 43,
+    "Age": 43,
+    "Income_USD": 201890,
+    "CreditScore": 674,
+    "LoanAmount_USD": 22429,
+    "LoanTerm_months": 60,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 44,
+    "Age": 48,
+    "Income_USD": 170810,
+    "CreditScore": 525,
+    "LoanAmount_USD": 53404,
+    "LoanTerm_months": 12,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 45,
+    "Age": 26,
+    "Income_USD": 457686,
+    "CreditScore": 815,
+    "LoanAmount_USD": 78744,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 46,
+    "Age": 27,
+    "Income_USD": 112989,
+    "CreditScore": 398,
+    "LoanAmount_USD": 37635,
+    "LoanTerm_months": 12,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 47,
+    "Age": 52,
+    "Income_USD": 116752,
+    "CreditScore": 398,
+    "LoanAmount_USD": 71235,
+    "LoanTerm_months": 12,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 48,
+    "Age": 53,
+    "Income_USD": 145668,
+    "CreditScore": 460,
+    "LoanAmount_USD": 90314,
+    "LoanTerm_months": 24,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 49,
+    "Age": 24,
+    "Income_USD": 184165,
+    "CreditScore": 587,
+    "LoanAmount_USD": 9014,
+    "LoanTerm_months": 24,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 50,
+    "Age": 47,
+    "Income_USD": 383524,
+    "CreditScore": null,
+    "LoanAmount_USD": 83069,
+    "LoanTerm_months": 60,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 51,
+    "Age": 46,
+    "Income_USD": 255362,
+    "CreditScore": 707,
+    "LoanAmount_USD": 13716,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 52,
+    "Age": 41,
+    "Income_USD": 140627,
+    "CreditScore": 620,
+    "LoanAmount_USD": 82575,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 53,
+    "Age": 55,
+    "Income_USD": 174475,
+    "CreditScore": 350,
+    "LoanAmount_USD": 98848,
+    "LoanTerm_months": 24,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 54,
+    "Age": 43,
+    "Income_USD": 312219,
+    "CreditScore": 604,
+    "LoanAmount_USD": 75313,
+    "LoanTerm_months": 36,
+    "EmploymentType": "Unemployed",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 55,
+    "Age": 26,
+    "Income_USD": 241207,
+    "CreditScore": 402,
+    "LoanAmount_USD": 92235,
+    "LoanTerm_months": 60,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 56,
+    "Age": 56,
+    "Income_USD": 220750,
+    "CreditScore": 568,
+    "LoanAmount_USD": 22019,
+    "LoanTerm_months": 24,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 57,
+    "Age": 40,
+    "Income_USD": 103847,
+    "CreditScore": 357,
+    "LoanAmount_USD": 30945,
+    "LoanTerm_months": 60,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 58,
+    "Age": 30,
+    "Income_USD": 1150,
+    "CreditScore": 357,
+    "LoanAmount_USD": 99841,
+    "LoanTerm_months": 12,
+    "EmploymentType": "Unemployed",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 59,
+    "Age": 46,
+    "Income_USD": 168877,
+    "CreditScore": 787,
+    "LoanAmount_USD": 61556,
+    "LoanTerm_months": 60,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 60,
+    "Age": 26,
+    "Income_USD": 29375,
+    "CreditScore": 546,
+    "LoanAmount_USD": 78666,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Unemployed",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 61,
+    "Age": 43,
+    "Income_USD": 174356,
+    "CreditScore": 584,
+    "LoanAmount_USD": 66389,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 62,
+    "Age": 26,
+    "Income_USD": 81293,
+    "CreditScore": 503,
+    "LoanAmount_USD": 48919,
+    "LoanTerm_months": 24,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 63,
+    "Age": 57,
+    "Income_USD": 342078,
+    "CreditScore": 588,
+    "LoanAmount_USD": 61573,
+    "LoanTerm_months": 60,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 64,
+    "Age": 26,
+    "Income_USD": 240677,
+    "CreditScore": 399,
+    "LoanAmount_USD": 73385,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 65,
+    "Age": 53,
+    "Income_USD": 140226,
+    "CreditScore": 624,
+    "LoanAmount_USD": 21364,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 66,
+    "Age": 23,
+    "Income_USD": 134182,
+    "CreditScore": 796,
+    "LoanAmount_USD": 54115,
+    "LoanTerm_months": 36,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 67,
+    "Age": 56,
+    "Income_USD": 223441,
+    "CreditScore": 679,
+    "LoanAmount_USD": 96680,
+    "LoanTerm_months": 12,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 68,
+    "Age": 33,
+    "Income_USD": 271492,
+    "CreditScore": 716,
+    "LoanAmount_USD": 74449,
+    "LoanTerm_months": 36,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 69,
+    "Age": 52,
+    "Income_USD": 467330,
+    "CreditScore": 601,
+    "LoanAmount_USD": 17161,
+    "LoanTerm_months": 60,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 70,
+    "Age": 38,
+    "Income_USD": 47350,
+    "CreditScore": 389,
+    "LoanAmount_USD": 30351,
+    "LoanTerm_months": 60,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 71,
+    "Age": 55,
+    "Income_USD": 227869,
+    "CreditScore": 414,
+    "LoanAmount_USD": 25358,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 72,
+    "Age": 32,
+    "Income_USD": 177164,
+    "CreditScore": 712,
+    "LoanAmount_USD": 12543,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 73,
+    "Age": 57,
+    "Income_USD": 243992,
+    "CreditScore": 693,
+    "LoanAmount_USD": 43756,
+    "LoanTerm_months": 12,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 74,
+    "Age": 56,
+    "Income_USD": 134352,
+    "CreditScore": 847,
+    "LoanAmount_USD": 42841,
+    "LoanTerm_months": 12,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 75,
+    "Age": 53,
+    "Income_USD": 239798,
+    "CreditScore": 336,
+    "LoanAmount_USD": 49811,
+    "LoanTerm_months": 12,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 76,
+    "Age": 56,
+    "Income_USD": 132856,
+    "CreditScore": 572,
+    "LoanAmount_USD": 19397,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 77,
+    "Age": 40,
+    "Income_USD": 149180,
+    "CreditScore": 476,
+    "LoanAmount_USD": 84459,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 78,
+    "Age": 30,
+    "Income_USD": 188011,
+    "CreditScore": 754,
+    "LoanAmount_USD": 64163,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 79,
+    "Age": 26,
+    "Income_USD": 169407,
+    "CreditScore": null,
+    "LoanAmount_USD": 94112,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 80,
+    "Age": 44,
+    "Income_USD": 148324,
+    "CreditScore": 443,
+    "LoanAmount_USD": 32192,
+    "LoanTerm_months": 60,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 81,
+    "Age": 35,
+    "Income_USD": 41174,
+    "CreditScore": 522,
+    "LoanAmount_USD": 14348,
+    "LoanTerm_months": 36,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 82,
+    "Age": 39,
+    "Income_USD": 109930,
+    "CreditScore": 308,
+    "LoanAmount_USD": 28625,
+    "LoanTerm_months": 24,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 83,
+    "Age": 28,
+    "Income_USD": 195333,
+    "CreditScore": 473,
+    "LoanAmount_USD": 51732,
+    "LoanTerm_months": 24,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 84,
+    "Age": 23,
+    "Income_USD": 39065,
+    "CreditScore": 816,
+    "LoanAmount_USD": 93092,
+    "LoanTerm_months": 60,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 85,
+    "Age": 22,
+    "Income_USD": 13807,
+    "CreditScore": 641,
+    "LoanAmount_USD": 96792,
+    "LoanTerm_months": 12,
+    "EmploymentType": "Unemployed",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 86,
+    "Age": 52,
+    "Income_USD": 186981,
+    "CreditScore": 744,
+    "LoanAmount_USD": 31790,
+    "LoanTerm_months": 36,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 87,
+    "Age": 24,
+    "Income_USD": 450288,
+    "CreditScore": 472,
+    "LoanAmount_USD": 9748,
+    "LoanTerm_months": 24,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 88,
+    "Age": 49,
+    "Income_USD": 397829,
+    "CreditScore": 755,
+    "LoanAmount_USD": 18116,
+    "LoanTerm_months": 12,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 89,
+    "Age": 49,
+    "Income_USD": 259564,
+    "CreditScore": 489,
+    "LoanAmount_USD": 71040,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 90,
+    "Age": 59,
+    "Income_USD": 243920,
+    "CreditScore": 416,
+    "LoanAmount_USD": 72641,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 91,
+    "Age": 42,
+    "Income_USD": 34620,
+    "CreditScore": 379,
+    "LoanAmount_USD": 98045,
+    "LoanTerm_months": 60,
+    "EmploymentType": "Unemployed",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 92,
+    "Age": 56,
+    "Income_USD": 379767,
+    "CreditScore": 831,
+    "LoanAmount_USD": 76726,
+    "LoanTerm_months": 12,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 93,
+    "Age": 22,
+    "Income_USD": 72638,
+    "CreditScore": 672,
+    "LoanAmount_USD": 73866,
+    "LoanTerm_months": 12,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 94,
+    "Age": 37,
+    "Income_USD": 172047,
+    "CreditScore": 657,
+    "LoanAmount_USD": 28959,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 95,
+    "Age": 57,
+    "Income_USD": 76427,
+    "CreditScore": 389,
+    "LoanAmount_USD": 89665,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 96,
+    "Age": 57,
+    "Income_USD": 157016,
+    "CreditScore": null,
+    "LoanAmount_USD": 43088,
+    "LoanTerm_months": 12,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 97,
+    "Age": 50,
+    "Income_USD": 186619,
+    "CreditScore": 846,
+    "LoanAmount_USD": 50445,
+    "LoanTerm_months": 24,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 98,
+    "Age": 46,
+    "Income_USD": 70990,
+    "CreditScore": 749,
+    "LoanAmount_USD": 70545,
+    "LoanTerm_months": 24,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 99,
+    "Age": 54,
+    "Income_USD": 31015,
+    "CreditScore": 673,
+    "LoanAmount_USD": 32712,
+    "LoanTerm_months": 24,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 100,
+    "Age": 46,
+    "Income_USD": 23833,
+    "CreditScore": 760,
+    "LoanAmount_USD": 25384,
+    "LoanTerm_months": 24,
+    "EmploymentType": "Unemployed",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 101,
+    "Age": 42,
+    "Income_USD": 161456,
+    "CreditScore": 817,
+    "LoanAmount_USD": 17763,
+    "LoanTerm_months": 12,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 102,
+    "Age": 24,
+    "Income_USD": 38757,
+    "CreditScore": 736,
+    "LoanAmount_USD": 28574,
+    "LoanTerm_months": 60,
+    "EmploymentType": "Unemployed",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 103,
+    "Age": 40,
+    "Income_USD": 183273,
+    "CreditScore": 444,
+    "LoanAmount_USD": 61397,
+    "LoanTerm_months": 12,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 104,
+    "Age": 34,
+    "Income_USD": 83932,
+    "CreditScore": 745,
+    "LoanAmount_USD": 75080,
+    "LoanTerm_months": 12,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 105,
+    "Age": 52,
+    "Income_USD": 56187,
+    "CreditScore": 371,
+    "LoanAmount_USD": 19489,
+    "LoanTerm_months": 24,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 106,
+    "Age": 33,
+    "Income_USD": 79922,
+    "CreditScore": 353,
+    "LoanAmount_USD": 78963,
+    "LoanTerm_months": 60,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 107,
+    "Age": 38,
+    "Income_USD": 193880,
+    "CreditScore": 602,
+    "LoanAmount_USD": 20254,
+    "LoanTerm_months": 60,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 108,
+    "Age": 60,
+    "Income_USD": 243306,
+    "CreditScore": 721,
+    "LoanAmount_USD": 70215,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 109,
+    "Age": 39,
+    "Income_USD": 85393,
+    "CreditScore": 634,
+    "LoanAmount_USD": 28386,
+    "LoanTerm_months": 36,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 110,
+    "Age": 59,
+    "Income_USD": 114456,
+    "CreditScore": 780,
+    "LoanAmount_USD": 47318,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 111,
+    "Age": 38,
+    "Income_USD": 273490,
+    "CreditScore": 432,
+    "LoanAmount_USD": 44811,
+    "LoanTerm_months": 24,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 112,
+    "Age": 41,
+    "Income_USD": 268592,
+    "CreditScore": 368,
+    "LoanAmount_USD": 97705,
+    "LoanTerm_months": 60,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 113,
+    "Age": 64,
+    "Income_USD": 197658,
+    "CreditScore": 410,
+    "LoanAmount_USD": 22144,
+    "LoanTerm_months": 36,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 114,
+    "Age": 61,
+    "Income_USD": 78243,
+    "CreditScore": 580,
+    "LoanAmount_USD": 88807,
+    "LoanTerm_months": 36,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 115,
+    "Age": 40,
+    "Income_USD": 95697,
+    "CreditScore": 304,
+    "LoanAmount_USD": 92505,
+    "LoanTerm_months": 48,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 116,
+    "Age": 27,
+    "Income_USD": 109252,
+    "CreditScore": 812,
+    "LoanAmount_USD": 21907,
+    "LoanTerm_months": 24,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Bachelors"
+  },
+  {
+    "ApplicantID": 117,
+    "Age": 48,
+    "Income_USD": 121865,
+    "CreditScore": 372,
+    "LoanAmount_USD": 28321,
+    "LoanTerm_months": 12,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "Masters"
+  },
+  {
+    "ApplicantID": 118,
+    "Age": 51,
+    "Income_USD": 161550,
+    "CreditScore": 406,
+    "LoanAmount_USD": 24262,
+    "LoanTerm_months": 60,
+    "EmploymentType": "Self-Employed",
+    "EducationLevel": "HighSchool"
+  },
+  {
+    "ApplicantID": 119,
+    "Age": 29,
+    "Income_USD": 240176,
+    "CreditScore": 552,
+    "LoanAmount_USD": 92731,
+    "LoanTerm_months": 24,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "PhD"
+  },
+  {
+    "ApplicantID": 120,
+    "Age": 23,
+    "Income_USD": 74247,
+    "CreditScore": 664,
+    "LoanAmount_USD": 9621,
+    "LoanTerm_months": 36,
+    "EmploymentType": "Salaried",
+    "EducationLevel": "PhD"
+  }
+]

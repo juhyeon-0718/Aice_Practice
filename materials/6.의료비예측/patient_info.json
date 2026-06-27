@@ -1,0 +1,5002 @@
+[
+  {
+    "PatientID": "P0001",
+    "Age": 56,
+    "Gender": "Female",
+    "BMI": 27.5,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 11984.32
+  },
+  {
+    "PatientID": "P0002",
+    "Age": 69,
+    "Gender": "Male",
+    "BMI": 38.6,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 14852.63
+  },
+  {
+    "PatientID": "P0003",
+    "Age": 46,
+    "Gender": "Female",
+    "BMI": 37.1,
+    "Smoker": "Yes",
+    "Region": "Southwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 21006.62
+  },
+  {
+    "PatientID": "P0004",
+    "Age": 32,
+    "Gender": "Male",
+    "BMI": 19.5,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 7236.76
+  },
+  {
+    "PatientID": "P0005",
+    "Age": 60,
+    "Gender": "Male",
+    "BMI": 19.1,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 9307.46
+  },
+  {
+    "PatientID": "P0006",
+    "Age": 25,
+    "Gender": "Female",
+    "BMI": 26.6,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 17861.61
+  },
+  {
+    "PatientID": "P0007",
+    "Age": 78,
+    "Gender": "Female",
+    "BMI": 35.9,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 9682.6
+  },
+  {
+    "PatientID": "P0008",
+    "Age": 38,
+    "Gender": "Female",
+    "BMI": 39.7,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 9518.72
+  },
+  {
+    "PatientID": "P0009",
+    "Age": 56,
+    "Gender": "Male",
+    "BMI": 21.7,
+    "Smoker": "Yes",
+    "Region": "Southwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 16441.92
+  },
+  {
+    "PatientID": "P0010",
+    "Age": 75,
+    "Gender": "Female",
+    "BMI": 31.3,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 11755.36
+  },
+  {
+    "PatientID": "P0011",
+    "Age": 36,
+    "Gender": "Male",
+    "BMI": 26.7,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 8040.77
+  },
+  {
+    "PatientID": "P0012",
+    "Age": 40,
+    "Gender": "Male",
+    "BMI": 39.4,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 10342.32
+  },
+  {
+    "PatientID": "P0013",
+    "Age": 28,
+    "Gender": "Male",
+    "BMI": 36.6,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 10126.58
+  },
+  {
+    "PatientID": "P0014",
+    "Age": 28,
+    "Gender": "Female",
+    "BMI": 36.5,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 7532.19
+  },
+  {
+    "PatientID": "P0015",
+    "Age": 41,
+    "Gender": "Female",
+    "BMI": 28.6,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 10583.39
+  },
+  {
+    "PatientID": "P0016",
+    "Age": 70,
+    "Gender": "Male",
+    "BMI": 27.4,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 8290.19
+  },
+  {
+    "PatientID": "P0017",
+    "Age": 53,
+    "Gender": "Male",
+    "BMI": 24.4,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 11392.59
+  },
+  {
+    "PatientID": "P0018",
+    "Age": 57,
+    "Gender": "Female",
+    "BMI": 19.7,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 5158.04
+  },
+  {
+    "PatientID": "P0019",
+    "Age": 41,
+    "Gender": "Male",
+    "BMI": 37.1,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 8512.76
+  },
+  {
+    "PatientID": "P0020",
+    "Age": 20,
+    "Gender": "Female",
+    "BMI": 36.0,
+    "Smoker": "Yes",
+    "Region": "Northeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 20977.86
+  },
+  {
+    "PatientID": "P0021",
+    "Age": 39,
+    "Gender": "Male",
+    "BMI": 40.0,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 6449.34
+  },
+  {
+    "PatientID": "P0022",
+    "Age": 70,
+    "Gender": "Female",
+    "BMI": 39.9,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 8634.51
+  },
+  {
+    "PatientID": "P0023",
+    "Age": 19,
+    "Gender": "Male",
+    "BMI": 30.4,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 17517.82
+  },
+  {
+    "PatientID": "P0024",
+    "Age": 41,
+    "Gender": "Female",
+    "BMI": 35.0,
+    "Smoker": "Yes",
+    "Region": "Southwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 18909.16
+  },
+  {
+    "PatientID": "P0025",
+    "Age": 61,
+    "Gender": "Male",
+    "BMI": 38.8,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 11631.26
+  },
+  {
+    "PatientID": "P0026",
+    "Age": 47,
+    "Gender": "Female",
+    "BMI": 36.8,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 11508.37
+  },
+  {
+    "PatientID": "P0027",
+    "Age": 55,
+    "Gender": "Female",
+    "BMI": 23.8,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 9019.44
+  },
+  {
+    "PatientID": "P0028",
+    "Age": 19,
+    "Gender": "Male",
+    "BMI": 28.2,
+    "Smoker": "Yes",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 18989.4
+  },
+  {
+    "PatientID": "P0029",
+    "Age": 77,
+    "Gender": "Male",
+    "BMI": 21.3,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 10169.64
+  },
+  {
+    "PatientID": "P0030",
+    "Age": 38,
+    "Gender": "Female",
+    "BMI": 39.0,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 8317.48
+  },
+  {
+    "PatientID": "P0031",
+    "Age": 50,
+    "Gender": "Male",
+    "BMI": 31.5,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 10995.15
+  },
+  {
+    "PatientID": "P0032",
+    "Age": 29,
+    "Gender": "Female",
+    "BMI": 23.4,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 12249.76
+  },
+  {
+    "PatientID": "P0033",
+    "Age": 75,
+    "Gender": "Male",
+    "BMI": 32.9,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 10774.73
+  },
+  {
+    "PatientID": "P0034",
+    "Age": 39,
+    "Gender": "Female",
+    "BMI": 31.8,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 6680.94
+  },
+  {
+    "PatientID": "P0035",
+    "Age": 78,
+    "Gender": "Female",
+    "BMI": 26.2,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 11734.16
+  },
+  {
+    "PatientID": "P0036",
+    "Age": 61,
+    "Gender": "Female",
+    "BMI": 20.9,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 8809.24
+  },
+  {
+    "PatientID": "P0037",
+    "Age": 42,
+    "Gender": "Female",
+    "BMI": 32.9,
+    "Smoker": "Yes",
+    "Region": "Southwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 13544.66
+  },
+  {
+    "PatientID": "P0038",
+    "Age": 66,
+    "Gender": "Female",
+    "BMI": 29.7,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 10464.84
+  },
+  {
+    "PatientID": "P0039",
+    "Age": 44,
+    "Gender": "Female",
+    "BMI": 35.1,
+    "Smoker": "Yes",
+    "Region": "Northeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 18639.34
+  },
+  {
+    "PatientID": "P0040",
+    "Age": 76,
+    "Gender": "Male",
+    "BMI": 29.7,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 11088.93
+  },
+  {
+    "PatientID": "P0041",
+    "Age": 59,
+    "Gender": "Male",
+    "BMI": 36.8,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 10793.96
+  },
+  {
+    "PatientID": "P0042",
+    "Age": 45,
+    "Gender": "Male",
+    "BMI": 30.4,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 10171.0
+  },
+  {
+    "PatientID": "P0043",
+    "Age": 77,
+    "Gender": "Female",
+    "BMI": 30.6,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 12328.9
+  },
+  {
+    "PatientID": "P0044",
+    "Age": 33,
+    "Gender": "Female",
+    "BMI": 37.3,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 7009.03
+  },
+  {
+    "PatientID": "P0045",
+    "Age": 32,
+    "Gender": "Female",
+    "BMI": 27.2,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 9846.21
+  },
+  {
+    "PatientID": "P0046",
+    "Age": 79,
+    "Gender": "Female",
+    "BMI": 21.4,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 10430.91
+  },
+  {
+    "PatientID": "P0047",
+    "Age": 79,
+    "Gender": "Male",
+    "BMI": 19.1,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 10427.62
+  },
+  {
+    "PatientID": "P0048",
+    "Age": 64,
+    "Gender": "Male",
+    "BMI": 34.7,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 11400.73
+  },
+  {
+    "PatientID": "P0049",
+    "Age": 79,
+    "Gender": "Female",
+    "BMI": 31.8,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 7759.12
+  },
+  {
+    "PatientID": "P0050",
+    "Age": 68,
+    "Gender": "Male",
+    "BMI": 33.6,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 13431.96
+  },
+  {
+    "PatientID": "P0051",
+    "Age": 61,
+    "Gender": "Male",
+    "BMI": 23.1,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 7978.07
+  },
+  {
+    "PatientID": "P0052",
+    "Age": 72,
+    "Gender": "Female",
+    "BMI": 21.4,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 11216.12
+  },
+  {
+    "PatientID": "P0053",
+    "Age": 69,
+    "Gender": "Male",
+    "BMI": 18.8,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 9184.57
+  },
+  {
+    "PatientID": "P0054",
+    "Age": 74,
+    "Gender": "Female",
+    "BMI": 26.0,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 14476.37
+  },
+  {
+    "PatientID": "P0055",
+    "Age": 20,
+    "Gender": "Male",
+    "BMI": 31.2,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 7673.07
+  },
+  {
+    "PatientID": "P0056",
+    "Age": 54,
+    "Gender": "Female",
+    "BMI": 26.9,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 9191.37
+  },
+  {
+    "PatientID": "P0057",
+    "Age": 68,
+    "Gender": "Female",
+    "BMI": 27.9,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 19151.16
+  },
+  {
+    "PatientID": "P0058",
+    "Age": 24,
+    "Gender": "Female",
+    "BMI": 37.9,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 8383.64
+  },
+  {
+    "PatientID": "P0059",
+    "Age": 38,
+    "Gender": "Female",
+    "BMI": 26.0,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 9599.88
+  },
+  {
+    "PatientID": "P0060",
+    "Age": 26,
+    "Gender": "Male",
+    "BMI": 29.6,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 5027.38
+  },
+  {
+    "PatientID": "P0061",
+    "Age": 56,
+    "Gender": "Female",
+    "BMI": 35.3,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 7722.64
+  },
+  {
+    "PatientID": "P0062",
+    "Age": 35,
+    "Gender": "Female",
+    "BMI": 27.0,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 15814.39
+  },
+  {
+    "PatientID": "P0063",
+    "Age": 21,
+    "Gender": "Female",
+    "BMI": 31.9,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 20140.62
+  },
+  {
+    "PatientID": "P0064",
+    "Age": 42,
+    "Gender": "Male",
+    "BMI": 37.0,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 12721.23
+  },
+  {
+    "PatientID": "P0065",
+    "Age": 77,
+    "Gender": "Female",
+    "BMI": 38.9,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 11031.1
+  },
+  {
+    "PatientID": "P0066",
+    "Age": 31,
+    "Gender": "Male",
+    "BMI": 21.7,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 6712.36
+  },
+  {
+    "PatientID": "P0067",
+    "Age": 67,
+    "Gender": "Female",
+    "BMI": 38.4,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 11830.1
+  },
+  {
+    "PatientID": "P0068",
+    "Age": 75,
+    "Gender": "Male",
+    "BMI": 29.1,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 13483.76
+  },
+  {
+    "PatientID": "P0069",
+    "Age": 26,
+    "Gender": "Male",
+    "BMI": 24.1,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 4945.29
+  },
+  {
+    "PatientID": "P0070",
+    "Age": 43,
+    "Gender": "Female",
+    "BMI": 28.4,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 9466.74
+  },
+  {
+    "PatientID": "P0071",
+    "Age": 70,
+    "Gender": "Male",
+    "BMI": 39.6,
+    "Smoker": "Yes",
+    "Region": "Southwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 21910.4
+  },
+  {
+    "PatientID": "P0072",
+    "Age": 19,
+    "Gender": "Female",
+    "BMI": 29.1,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 7362.19
+  },
+  {
+    "PatientID": "P0073",
+    "Age": 37,
+    "Gender": "Female",
+    "BMI": 25.6,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 7289.16
+  },
+  {
+    "PatientID": "P0074",
+    "Age": 45,
+    "Gender": "Female",
+    "BMI": 32.1,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 10462.09
+  },
+  {
+    "PatientID": "P0075",
+    "Age": 64,
+    "Gender": "Male",
+    "BMI": 23.7,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 3293.54
+  },
+  {
+    "PatientID": "P0076",
+    "Age": 77,
+    "Gender": "Male",
+    "BMI": 20.1,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 11205.75
+  },
+  {
+    "PatientID": "P0077",
+    "Age": 24,
+    "Gender": "Female",
+    "BMI": 21.3,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 14891.85
+  },
+  {
+    "PatientID": "P0078",
+    "Age": 61,
+    "Gender": "Female",
+    "BMI": 21.3,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 5888.73
+  },
+  {
+    "PatientID": "P0079",
+    "Age": 78,
+    "Gender": "Male",
+    "BMI": 21.8,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 11422.41
+  },
+  {
+    "PatientID": "P0080",
+    "Age": 25,
+    "Gender": "Female",
+    "BMI": 21.5,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 8997.32
+  },
+  {
+    "PatientID": "P0081",
+    "Age": 64,
+    "Gender": "Female",
+    "BMI": 32.3,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 8655.1
+  },
+  {
+    "PatientID": "P0082",
+    "Age": 52,
+    "Gender": "Female",
+    "BMI": 22.4,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 9505.75
+  },
+  {
+    "PatientID": "P0083",
+    "Age": 31,
+    "Gender": "Male",
+    "BMI": 25.9,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 10364.56
+  },
+  {
+    "PatientID": "P0084",
+    "Age": 34,
+    "Gender": "Male",
+    "BMI": 37.8,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 11109.83
+  },
+  {
+    "PatientID": "P0085",
+    "Age": 53,
+    "Gender": "Male",
+    "BMI": 28.7,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 21799.93
+  },
+  {
+    "PatientID": "P0086",
+    "Age": 67,
+    "Gender": "Female",
+    "BMI": 32.9,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 12624.25
+  },
+  {
+    "PatientID": "P0087",
+    "Age": 57,
+    "Gender": "Female",
+    "BMI": 22.2,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 19500.87
+  },
+  {
+    "PatientID": "P0088",
+    "Age": 21,
+    "Gender": "Female",
+    "BMI": 22.6,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 4346.07
+  },
+  {
+    "PatientID": "P0089",
+    "Age": 19,
+    "Gender": "Male",
+    "BMI": 19.4,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 6457.88
+  },
+  {
+    "PatientID": "P0090",
+    "Age": 79,
+    "Gender": "Female",
+    "BMI": 22.1,
+    "Smoker": "Yes",
+    "Region": "Southwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 17763.51
+  },
+  {
+    "PatientID": "P0091",
+    "Age": 23,
+    "Gender": "Female",
+    "BMI": 24.5,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 12491.89
+  },
+  {
+    "PatientID": "P0092",
+    "Age": 71,
+    "Gender": "Female",
+    "BMI": 22.3,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 10198.23
+  },
+  {
+    "PatientID": "P0093",
+    "Age": 59,
+    "Gender": "Female",
+    "BMI": 20.4,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 9696.41
+  },
+  {
+    "PatientID": "P0094",
+    "Age": 21,
+    "Gender": "Male",
+    "BMI": 21.1,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 7652.97
+  },
+  {
+    "PatientID": "P0095",
+    "Age": 71,
+    "Gender": "Male",
+    "BMI": 28.4,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 19977.2
+  },
+  {
+    "PatientID": "P0096",
+    "Age": 46,
+    "Gender": "Female",
+    "BMI": 22.9,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 11190.1
+  },
+  {
+    "PatientID": "P0097",
+    "Age": 35,
+    "Gender": "Male",
+    "BMI": 26.3,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 5634.7
+  },
+  {
+    "PatientID": "P0098",
+    "Age": 43,
+    "Gender": "Male",
+    "BMI": 29.3,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 8469.21
+  },
+  {
+    "PatientID": "P0099",
+    "Age": 61,
+    "Gender": "Female",
+    "BMI": 33.3,
+    "Smoker": "Yes",
+    "Region": "Northeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 17395.06
+  },
+  {
+    "PatientID": "P0100",
+    "Age": 51,
+    "Gender": "Female",
+    "BMI": 19.3,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 4909.95
+  },
+  {
+    "PatientID": "P0101",
+    "Age": 27,
+    "Gender": "Male",
+    "BMI": 35.7,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 7196.46
+  },
+  {
+    "PatientID": "P0102",
+    "Age": 79,
+    "Gender": "Female",
+    "BMI": 32.0,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 11075.93
+  },
+  {
+    "PatientID": "P0103",
+    "Age": 53,
+    "Gender": "Male",
+    "BMI": 20.3,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 7291.4
+  },
+  {
+    "PatientID": "P0104",
+    "Age": 31,
+    "Gender": "Female",
+    "BMI": 37.3,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 6395.16
+  },
+  {
+    "PatientID": "P0105",
+    "Age": 48,
+    "Gender": "Male",
+    "BMI": 38.3,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 6417.37
+  },
+  {
+    "PatientID": "P0106",
+    "Age": 65,
+    "Gender": "Female",
+    "BMI": 19.8,
+    "Smoker": "Yes",
+    "Region": "Northeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 19583.79
+  },
+  {
+    "PatientID": "P0107",
+    "Age": 32,
+    "Gender": "Male",
+    "BMI": 24.5,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 5090.56
+  },
+  {
+    "PatientID": "P0108",
+    "Age": 25,
+    "Gender": "Male",
+    "BMI": 35.8,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 10850.11
+  },
+  {
+    "PatientID": "P0109",
+    "Age": 31,
+    "Gender": "Male",
+    "BMI": 34.6,
+    "Smoker": "Yes",
+    "Region": "Northeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 19174.88
+  },
+  {
+    "PatientID": "P0110",
+    "Age": 40,
+    "Gender": "Female",
+    "BMI": 22.5,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 5084.9
+  },
+  {
+    "PatientID": "P0111",
+    "Age": 77,
+    "Gender": "Male",
+    "BMI": 23.0,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 8231.58
+  },
+  {
+    "PatientID": "P0112",
+    "Age": 74,
+    "Gender": "Male",
+    "BMI": 26.5,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 9345.69
+  },
+  {
+    "PatientID": "P0113",
+    "Age": 79,
+    "Gender": "Female",
+    "BMI": 28.9,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 10978.35
+  },
+  {
+    "PatientID": "P0114",
+    "Age": 57,
+    "Gender": "Female",
+    "BMI": 31.8,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 11710.9
+  },
+  {
+    "PatientID": "P0115",
+    "Age": 38,
+    "Gender": "Male",
+    "BMI": 26.4,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 3289.66
+  },
+  {
+    "PatientID": "P0116",
+    "Age": 33,
+    "Gender": "Male",
+    "BMI": 28.4,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 18720.05
+  },
+  {
+    "PatientID": "P0117",
+    "Age": 62,
+    "Gender": "Female",
+    "BMI": 34.6,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 8739.73
+  },
+  {
+    "PatientID": "P0118",
+    "Age": 35,
+    "Gender": "Female",
+    "BMI": 19.3,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 8592.68
+  },
+  {
+    "PatientID": "P0119",
+    "Age": 64,
+    "Gender": "Female",
+    "BMI": 23.9,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 10626.39
+  },
+  {
+    "PatientID": "P0120",
+    "Age": 70,
+    "Gender": "Female",
+    "BMI": 33.8,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 9876.06
+  },
+  {
+    "PatientID": "P0121",
+    "Age": 41,
+    "Gender": "Female",
+    "BMI": 37.7,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 9681.89
+  },
+  {
+    "PatientID": "P0122",
+    "Age": 43,
+    "Gender": "Male",
+    "BMI": 29.5,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 17507.95
+  },
+  {
+    "PatientID": "P0123",
+    "Age": 42,
+    "Gender": "Female",
+    "BMI": 29.9,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 10742.01
+  },
+  {
+    "PatientID": "P0124",
+    "Age": 77,
+    "Gender": "Male",
+    "BMI": 20.8,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 9892.62
+  },
+  {
+    "PatientID": "P0125",
+    "Age": 77,
+    "Gender": "Male",
+    "BMI": 28.1,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 22962.38
+  },
+  {
+    "PatientID": "P0126",
+    "Age": 77,
+    "Gender": "Male",
+    "BMI": 30.0,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 10728.68
+  },
+  {
+    "PatientID": "P0127",
+    "Age": 62,
+    "Gender": "Female",
+    "BMI": 23.7,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 8683.19
+  },
+  {
+    "PatientID": "P0128",
+    "Age": 58,
+    "Gender": "Male",
+    "BMI": 24.3,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 6872.57
+  },
+  {
+    "PatientID": "P0129",
+    "Age": 46,
+    "Gender": "Male",
+    "BMI": 26.6,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 4353.72
+  },
+  {
+    "PatientID": "P0130",
+    "Age": 32,
+    "Gender": "Female",
+    "BMI": 18.9,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 3931.73
+  },
+  {
+    "PatientID": "P0131",
+    "Age": 62,
+    "Gender": "Male",
+    "BMI": 25.4,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 10674.25
+  },
+  {
+    "PatientID": "P0132",
+    "Age": 18,
+    "Gender": "Male",
+    "BMI": 23.0,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 8917.45
+  },
+  {
+    "PatientID": "P0133",
+    "Age": 42,
+    "Gender": "Female",
+    "BMI": 25.5,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 5487.62
+  },
+  {
+    "PatientID": "P0134",
+    "Age": 24,
+    "Gender": "Male",
+    "BMI": 21.1,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 8990.08
+  },
+  {
+    "PatientID": "P0135",
+    "Age": 26,
+    "Gender": "Male",
+    "BMI": 37.6,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 7093.88
+  },
+  {
+    "PatientID": "P0136",
+    "Age": 41,
+    "Gender": "Male",
+    "BMI": 31.3,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 8973.59
+  },
+  {
+    "PatientID": "P0137",
+    "Age": 18,
+    "Gender": "Female",
+    "BMI": 33.1,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 11434.44
+  },
+  {
+    "PatientID": "P0138",
+    "Age": 61,
+    "Gender": "Female",
+    "BMI": 35.5,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 12893.68
+  },
+  {
+    "PatientID": "P0139",
+    "Age": 25,
+    "Gender": "Female",
+    "BMI": 29.2,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 7132.94
+  },
+  {
+    "PatientID": "P0140",
+    "Age": 41,
+    "Gender": "Male",
+    "BMI": 20.4,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 7267.62
+  },
+  {
+    "PatientID": "P0141",
+    "Age": 28,
+    "Gender": "Male",
+    "BMI": 30.0,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 4596.37
+  },
+  {
+    "PatientID": "P0142",
+    "Age": 68,
+    "Gender": "Female",
+    "BMI": 31.1,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 7571.69
+  },
+  {
+    "PatientID": "P0143",
+    "Age": 34,
+    "Gender": "Male",
+    "BMI": 34.5,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 8227.74
+  },
+  {
+    "PatientID": "P0144",
+    "Age": 25,
+    "Gender": "Male",
+    "BMI": 27.8,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 5555.64
+  },
+  {
+    "PatientID": "P0145",
+    "Age": 52,
+    "Gender": "Female",
+    "BMI": 21.2,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 9337.49
+  },
+  {
+    "PatientID": "P0146",
+    "Age": 52,
+    "Gender": "Female",
+    "BMI": 24.6,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 19253.7
+  },
+  {
+    "PatientID": "P0147",
+    "Age": 50,
+    "Gender": "Male",
+    "BMI": 26.3,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 7180.29
+  },
+  {
+    "PatientID": "P0148",
+    "Age": 76,
+    "Gender": "Male",
+    "BMI": 32.4,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 10239.99
+  },
+  {
+    "PatientID": "P0149",
+    "Age": 22,
+    "Gender": "Male",
+    "BMI": 30.8,
+    "Smoker": "Yes",
+    "Region": "Southwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 17517.31
+  },
+  {
+    "PatientID": "P0150",
+    "Age": 59,
+    "Gender": "Female",
+    "BMI": 26.2,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 9453.88
+  },
+  {
+    "PatientID": "P0151",
+    "Age": 56,
+    "Gender": "Female",
+    "BMI": 39.7,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 17089.2
+  },
+  {
+    "PatientID": "P0152",
+    "Age": 75,
+    "Gender": "Female",
+    "BMI": 31.5,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 13721.86
+  },
+  {
+    "PatientID": "P0153",
+    "Age": 58,
+    "Gender": "Female",
+    "BMI": 23.6,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 9702.82
+  },
+  {
+    "PatientID": "P0154",
+    "Age": 45,
+    "Gender": "Male",
+    "BMI": 20.7,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 18287.7
+  },
+  {
+    "PatientID": "P0155",
+    "Age": 24,
+    "Gender": "Female",
+    "BMI": 21.8,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 7616.43
+  },
+  {
+    "PatientID": "P0156",
+    "Age": 26,
+    "Gender": "Female",
+    "BMI": 23.8,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 8266.43
+  },
+  {
+    "PatientID": "P0157",
+    "Age": 25,
+    "Gender": "Female",
+    "BMI": 22.0,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 9156.27
+  },
+  {
+    "PatientID": "P0158",
+    "Age": 29,
+    "Gender": "Female",
+    "BMI": 22.5,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 17524.25
+  },
+  {
+    "PatientID": "P0159",
+    "Age": 51,
+    "Gender": "Female",
+    "BMI": 24.6,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 6825.13
+  },
+  {
+    "PatientID": "P0160",
+    "Age": 50,
+    "Gender": "Male",
+    "BMI": 22.2,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 9223.01
+  },
+  {
+    "PatientID": "P0161",
+    "Age": 65,
+    "Gender": "Male",
+    "BMI": 37.8,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 7242.55
+  },
+  {
+    "PatientID": "P0162",
+    "Age": 72,
+    "Gender": "Female",
+    "BMI": 20.2,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 9317.12
+  },
+  {
+    "PatientID": "P0163",
+    "Age": 40,
+    "Gender": "Male",
+    "BMI": 29.8,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 9413.54
+  },
+  {
+    "PatientID": "P0164",
+    "Age": 79,
+    "Gender": "Female",
+    "BMI": 27.3,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 9763.77
+  },
+  {
+    "PatientID": "P0165",
+    "Age": 41,
+    "Gender": "Female",
+    "BMI": 39.6,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 9252.92
+  },
+  {
+    "PatientID": "P0166",
+    "Age": 54,
+    "Gender": "Male",
+    "BMI": 20.9,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 4436.3
+  },
+  {
+    "PatientID": "P0167",
+    "Age": 52,
+    "Gender": "Male",
+    "BMI": 27.1,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 16712.55
+  },
+  {
+    "PatientID": "P0168",
+    "Age": 61,
+    "Gender": "Female",
+    "BMI": 39.3,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 11665.69
+  },
+  {
+    "PatientID": "P0169",
+    "Age": 57,
+    "Gender": "Female",
+    "BMI": 37.1,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 9379.71
+  },
+  {
+    "PatientID": "P0170",
+    "Age": 39,
+    "Gender": "Female",
+    "BMI": 36.1,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 7504.65
+  },
+  {
+    "PatientID": "P0171",
+    "Age": 44,
+    "Gender": "Male",
+    "BMI": 24.0,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 11231.42
+  },
+  {
+    "PatientID": "P0172",
+    "Age": 52,
+    "Gender": "Female",
+    "BMI": 22.2,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 6367.65
+  },
+  {
+    "PatientID": "P0173",
+    "Age": 18,
+    "Gender": "Female",
+    "BMI": 32.9,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 9128.91
+  },
+  {
+    "PatientID": "P0174",
+    "Age": 52,
+    "Gender": "Female",
+    "BMI": 38.5,
+    "Smoker": "Yes",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 20304.39
+  },
+  {
+    "PatientID": "P0175",
+    "Age": 54,
+    "Gender": "Male",
+    "BMI": 30.5,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 8457.55
+  },
+  {
+    "PatientID": "P0176",
+    "Age": 64,
+    "Gender": "Female",
+    "BMI": 30.8,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 12330.62
+  },
+  {
+    "PatientID": "P0177",
+    "Age": 31,
+    "Gender": "Female",
+    "BMI": 24.5,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 14162.73
+  },
+  {
+    "PatientID": "P0178",
+    "Age": 20,
+    "Gender": "Male",
+    "BMI": 35.0,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 9338.31
+  },
+  {
+    "PatientID": "P0179",
+    "Age": 18,
+    "Gender": "Female",
+    "BMI": 22.5,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 9901.16
+  },
+  {
+    "PatientID": "P0180",
+    "Age": 22,
+    "Gender": "Female",
+    "BMI": 25.5,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 14808.76
+  },
+  {
+    "PatientID": "P0181",
+    "Age": 43,
+    "Gender": "Male",
+    "BMI": 27.6,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 11694.93
+  },
+  {
+    "PatientID": "P0182",
+    "Age": 72,
+    "Gender": "Female",
+    "BMI": 29.4,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 9539.91
+  },
+  {
+    "PatientID": "P0183",
+    "Age": 31,
+    "Gender": "Male",
+    "BMI": 23.7,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 8127.39
+  },
+  {
+    "PatientID": "P0184",
+    "Age": 56,
+    "Gender": "Male",
+    "BMI": 21.0,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 19320.64
+  },
+  {
+    "PatientID": "P0185",
+    "Age": 44,
+    "Gender": "Female",
+    "BMI": 31.6,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 9591.38
+  },
+  {
+    "PatientID": "P0186",
+    "Age": 26,
+    "Gender": "Female",
+    "BMI": 24.7,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 8421.62
+  },
+  {
+    "PatientID": "P0187",
+    "Age": 32,
+    "Gender": "Female",
+    "BMI": 31.0,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 10286.98
+  },
+  {
+    "PatientID": "P0188",
+    "Age": 32,
+    "Gender": "Female",
+    "BMI": 21.8,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 5102.94
+  },
+  {
+    "PatientID": "P0189",
+    "Age": 43,
+    "Gender": "Male",
+    "BMI": 28.8,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 21638.68
+  },
+  {
+    "PatientID": "P0190",
+    "Age": 59,
+    "Gender": "Female",
+    "BMI": 30.0,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 6625.02
+  },
+  {
+    "PatientID": "P0191",
+    "Age": 77,
+    "Gender": "Male",
+    "BMI": 19.6,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 21415.09
+  },
+  {
+    "PatientID": "P0192",
+    "Age": 30,
+    "Gender": "Female",
+    "BMI": 25.7,
+    "Smoker": "Yes",
+    "Region": "Northeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 19823.41
+  },
+  {
+    "PatientID": "P0193",
+    "Age": 68,
+    "Gender": "Female",
+    "BMI": 21.4,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 6718.07
+  },
+  {
+    "PatientID": "P0194",
+    "Age": 49,
+    "Gender": "Female",
+    "BMI": 19.9,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 8628.37
+  },
+  {
+    "PatientID": "P0195",
+    "Age": 56,
+    "Gender": "Male",
+    "BMI": 39.8,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 9068.59
+  },
+  {
+    "PatientID": "P0196",
+    "Age": 66,
+    "Gender": "Female",
+    "BMI": 25.4,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 9910.16
+  },
+  {
+    "PatientID": "P0197",
+    "Age": 69,
+    "Gender": "Female",
+    "BMI": 35.9,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 9423.93
+  },
+  {
+    "PatientID": "P0198",
+    "Age": 78,
+    "Gender": "Female",
+    "BMI": 24.0,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 11959.32
+  },
+  {
+    "PatientID": "P0199",
+    "Age": 49,
+    "Gender": "Female",
+    "BMI": 33.2,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 12390.62
+  },
+  {
+    "PatientID": "P0200",
+    "Age": 21,
+    "Gender": "Male",
+    "BMI": 34.8,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 9821.37
+  },
+  {
+    "PatientID": "P0201",
+    "Age": 47,
+    "Gender": "Female",
+    "BMI": 31.3,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 8855.66
+  },
+  {
+    "PatientID": "P0202",
+    "Age": 54,
+    "Gender": "Male",
+    "BMI": 28.6,
+    "Smoker": "Yes",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 19141.56
+  },
+  {
+    "PatientID": "P0203",
+    "Age": 40,
+    "Gender": "Male",
+    "BMI": 27.4,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 3873.12
+  },
+  {
+    "PatientID": "P0204",
+    "Age": 56,
+    "Gender": "Male",
+    "BMI": 26.0,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 7788.26
+  },
+  {
+    "PatientID": "P0205",
+    "Age": 62,
+    "Gender": "Male",
+    "BMI": 38.5,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 13379.7
+  },
+  {
+    "PatientID": "P0206",
+    "Age": 32,
+    "Gender": "Male",
+    "BMI": 36.4,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 21971.17
+  },
+  {
+    "PatientID": "P0207",
+    "Age": 60,
+    "Gender": "Male",
+    "BMI": 39.2,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 8951.3
+  },
+  {
+    "PatientID": "P0208",
+    "Age": 46,
+    "Gender": "Female",
+    "BMI": 21.2,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 6615.07
+  },
+  {
+    "PatientID": "P0209",
+    "Age": 53,
+    "Gender": "Male",
+    "BMI": 34.2,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 10017.19
+  },
+  {
+    "PatientID": "P0210",
+    "Age": 30,
+    "Gender": "Male",
+    "BMI": 38.7,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 9930.32
+  },
+  {
+    "PatientID": "P0211",
+    "Age": 49,
+    "Gender": "Male",
+    "BMI": 22.4,
+    "Smoker": "Yes",
+    "Region": "Southwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 16330.79
+  },
+  {
+    "PatientID": "P0212",
+    "Age": 24,
+    "Gender": "Female",
+    "BMI": 19.9,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 7548.12
+  },
+  {
+    "PatientID": "P0213",
+    "Age": 76,
+    "Gender": "Female",
+    "BMI": 34.4,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 9792.32
+  },
+  {
+    "PatientID": "P0214",
+    "Age": 68,
+    "Gender": "Male",
+    "BMI": 30.9,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 10461.1
+  },
+  {
+    "PatientID": "P0215",
+    "Age": 39,
+    "Gender": "Female",
+    "BMI": 36.6,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 10702.57
+  },
+  {
+    "PatientID": "P0216",
+    "Age": 45,
+    "Gender": "Male",
+    "BMI": 21.5,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 8262.84
+  },
+  {
+    "PatientID": "P0217",
+    "Age": 19,
+    "Gender": "Male",
+    "BMI": 35.6,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 6137.23
+  },
+  {
+    "PatientID": "P0218",
+    "Age": 59,
+    "Gender": "Female",
+    "BMI": 22.8,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 8730.78
+  },
+  {
+    "PatientID": "P0219",
+    "Age": 62,
+    "Gender": "Male",
+    "BMI": 22.0,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 9923.27
+  },
+  {
+    "PatientID": "P0220",
+    "Age": 79,
+    "Gender": "Female",
+    "BMI": 22.0,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 9709.98
+  },
+  {
+    "PatientID": "P0221",
+    "Age": 74,
+    "Gender": "Female",
+    "BMI": 36.0,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 9782.41
+  },
+  {
+    "PatientID": "P0222",
+    "Age": 70,
+    "Gender": "Male",
+    "BMI": 32.8,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 14477.29
+  },
+  {
+    "PatientID": "P0223",
+    "Age": 23,
+    "Gender": "Male",
+    "BMI": 29.7,
+    "Smoker": "Yes",
+    "Region": "Northeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 19241.84
+  },
+  {
+    "PatientID": "P0224",
+    "Age": 45,
+    "Gender": "Female",
+    "BMI": 26.2,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 7779.04
+  },
+  {
+    "PatientID": "P0225",
+    "Age": 45,
+    "Gender": "Male",
+    "BMI": 37.4,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 11883.91
+  },
+  {
+    "PatientID": "P0226",
+    "Age": 61,
+    "Gender": "Male",
+    "BMI": 26.9,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 9072.36
+  },
+  {
+    "PatientID": "P0227",
+    "Age": 61,
+    "Gender": "Male",
+    "BMI": 36.1,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 11506.25
+  },
+  {
+    "PatientID": "P0228",
+    "Age": 37,
+    "Gender": "Female",
+    "BMI": 27.9,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 7879.28
+  },
+  {
+    "PatientID": "P0229",
+    "Age": 47,
+    "Gender": "Female",
+    "BMI": 26.6,
+    "Smoker": "Yes",
+    "Region": "Southwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 17795.4
+  },
+  {
+    "PatientID": "P0230",
+    "Age": 79,
+    "Gender": "Male",
+    "BMI": 28.4,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 11685.43
+  },
+  {
+    "PatientID": "P0231",
+    "Age": 28,
+    "Gender": "Female",
+    "BMI": 25.0,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 3258.25
+  },
+  {
+    "PatientID": "P0232",
+    "Age": 75,
+    "Gender": "Female",
+    "BMI": 34.6,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 8456.47
+  },
+  {
+    "PatientID": "P0233",
+    "Age": 72,
+    "Gender": "Female",
+    "BMI": 29.3,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 8142.15
+  },
+  {
+    "PatientID": "P0234",
+    "Age": 45,
+    "Gender": "Female",
+    "BMI": 23.5,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 8535.89
+  },
+  {
+    "PatientID": "P0235",
+    "Age": 42,
+    "Gender": "Female",
+    "BMI": 37.8,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 12845.03
+  },
+  {
+    "PatientID": "P0236",
+    "Age": 56,
+    "Gender": "Male",
+    "BMI": 26.8,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 22442.6
+  },
+  {
+    "PatientID": "P0237",
+    "Age": 79,
+    "Gender": "Male",
+    "BMI": 30.2,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 22246.1
+  },
+  {
+    "PatientID": "P0238",
+    "Age": 50,
+    "Gender": "Male",
+    "BMI": 38.0,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 11801.69
+  },
+  {
+    "PatientID": "P0239",
+    "Age": 18,
+    "Gender": "Female",
+    "BMI": 31.9,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 2987.88
+  },
+  {
+    "PatientID": "P0240",
+    "Age": 74,
+    "Gender": "Female",
+    "BMI": 21.0,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 7614.65
+  },
+  {
+    "PatientID": "P0241",
+    "Age": 44,
+    "Gender": "Male",
+    "BMI": 38.7,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 8494.43
+  },
+  {
+    "PatientID": "P0242",
+    "Age": 79,
+    "Gender": "Female",
+    "BMI": 32.0,
+    "Smoker": "Yes",
+    "Region": "Northeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 19908.3
+  },
+  {
+    "PatientID": "P0243",
+    "Age": 74,
+    "Gender": "Male",
+    "BMI": 25.7,
+    "Smoker": "Yes",
+    "Region": "Northeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 19433.71
+  },
+  {
+    "PatientID": "P0244",
+    "Age": 69,
+    "Gender": "Male",
+    "BMI": 21.5,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 9005.82
+  },
+  {
+    "PatientID": "P0245",
+    "Age": 30,
+    "Gender": "Male",
+    "BMI": 35.6,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 4601.4
+  },
+  {
+    "PatientID": "P0246",
+    "Age": 58,
+    "Gender": "Female",
+    "BMI": 31.8,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 10075.82
+  },
+  {
+    "PatientID": "P0247",
+    "Age": 20,
+    "Gender": "Female",
+    "BMI": 30.0,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 4854.51
+  },
+  {
+    "PatientID": "P0248",
+    "Age": 56,
+    "Gender": "Male",
+    "BMI": 37.7,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 21548.49
+  },
+  {
+    "PatientID": "P0249",
+    "Age": 23,
+    "Gender": "Male",
+    "BMI": 35.5,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 11348.17
+  },
+  {
+    "PatientID": "P0250",
+    "Age": 25,
+    "Gender": "Male",
+    "BMI": 21.8,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 5911.23
+  },
+  {
+    "PatientID": "P0251",
+    "Age": 44,
+    "Gender": "Male",
+    "BMI": 25.2,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 4159.42
+  },
+  {
+    "PatientID": "P0252",
+    "Age": 26,
+    "Gender": "Female",
+    "BMI": 23.8,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 6227.99
+  },
+  {
+    "PatientID": "P0253",
+    "Age": 79,
+    "Gender": "Female",
+    "BMI": 34.5,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 12601.92
+  },
+  {
+    "PatientID": "P0254",
+    "Age": 54,
+    "Gender": "Male",
+    "BMI": 19.2,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 22616.69
+  },
+  {
+    "PatientID": "P0255",
+    "Age": 50,
+    "Gender": "Male",
+    "BMI": 30.8,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 17620.9
+  },
+  {
+    "PatientID": "P0256",
+    "Age": 68,
+    "Gender": "Female",
+    "BMI": 34.9,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 11383.4
+  },
+  {
+    "PatientID": "P0257",
+    "Age": 59,
+    "Gender": "Female",
+    "BMI": 37.4,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 8259.38
+  },
+  {
+    "PatientID": "P0258",
+    "Age": 61,
+    "Gender": "Male",
+    "BMI": 25.9,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 9928.1
+  },
+  {
+    "PatientID": "P0259",
+    "Age": 41,
+    "Gender": "Male",
+    "BMI": 36.2,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 13458.69
+  },
+  {
+    "PatientID": "P0260",
+    "Age": 32,
+    "Gender": "Male",
+    "BMI": 20.9,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 4594.06
+  },
+  {
+    "PatientID": "P0261",
+    "Age": 76,
+    "Gender": "Female",
+    "BMI": 36.7,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 12477.48
+  },
+  {
+    "PatientID": "P0262",
+    "Age": 71,
+    "Gender": "Female",
+    "BMI": 21.2,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 10485.39
+  },
+  {
+    "PatientID": "P0263",
+    "Age": 49,
+    "Gender": "Female",
+    "BMI": 27.0,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 21821.57
+  },
+  {
+    "PatientID": "P0264",
+    "Age": 49,
+    "Gender": "Male",
+    "BMI": 35.6,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 9705.97
+  },
+  {
+    "PatientID": "P0265",
+    "Age": 41,
+    "Gender": "Male",
+    "BMI": 21.7,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 18166.1
+  },
+  {
+    "PatientID": "P0266",
+    "Age": 58,
+    "Gender": "Female",
+    "BMI": 23.4,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 8116.7
+  },
+  {
+    "PatientID": "P0267",
+    "Age": 69,
+    "Gender": "Female",
+    "BMI": 34.0,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 10388.25
+  },
+  {
+    "PatientID": "P0268",
+    "Age": 66,
+    "Gender": "Male",
+    "BMI": 34.0,
+    "Smoker": "Yes",
+    "Region": "Northeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 19513.62
+  },
+  {
+    "PatientID": "P0269",
+    "Age": 79,
+    "Gender": "Female",
+    "BMI": 32.3,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 12923.14
+  },
+  {
+    "PatientID": "P0270",
+    "Age": 66,
+    "Gender": "Female",
+    "BMI": 33.4,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 10400.78
+  },
+  {
+    "PatientID": "P0271",
+    "Age": 75,
+    "Gender": "Male",
+    "BMI": 30.2,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 12024.2
+  },
+  {
+    "PatientID": "P0272",
+    "Age": 69,
+    "Gender": "Female",
+    "BMI": 23.9,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 9891.47
+  },
+  {
+    "PatientID": "P0273",
+    "Age": 29,
+    "Gender": "Male",
+    "BMI": 25.9,
+    "Smoker": "Yes",
+    "Region": "Northeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 18792.1
+  },
+  {
+    "PatientID": "P0274",
+    "Age": 79,
+    "Gender": "Male",
+    "BMI": 22.4,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 10847.21
+  },
+  {
+    "PatientID": "P0275",
+    "Age": 56,
+    "Gender": "Male",
+    "BMI": 38.0,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 6053.94
+  },
+  {
+    "PatientID": "P0276",
+    "Age": 19,
+    "Gender": "Male",
+    "BMI": 31.0,
+    "Smoker": "Yes",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 21073.84
+  },
+  {
+    "PatientID": "P0277",
+    "Age": 20,
+    "Gender": "Male",
+    "BMI": 27.1,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 5898.54
+  },
+  {
+    "PatientID": "P0278",
+    "Age": 66,
+    "Gender": "Male",
+    "BMI": 28.4,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 17832.47
+  },
+  {
+    "PatientID": "P0279",
+    "Age": 54,
+    "Gender": "Male",
+    "BMI": 38.9,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 19398.68
+  },
+  {
+    "PatientID": "P0280",
+    "Age": 66,
+    "Gender": "Female",
+    "BMI": 21.8,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 11548.88
+  },
+  {
+    "PatientID": "P0281",
+    "Age": 73,
+    "Gender": "Male",
+    "BMI": 31.1,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 15988.65
+  },
+  {
+    "PatientID": "P0282",
+    "Age": 34,
+    "Gender": "Male",
+    "BMI": 29.4,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 13415.5
+  },
+  {
+    "PatientID": "P0283",
+    "Age": 76,
+    "Gender": "Female",
+    "BMI": 31.6,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 11572.11
+  },
+  {
+    "PatientID": "P0284",
+    "Age": 66,
+    "Gender": "Female",
+    "BMI": 18.9,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 10246.48
+  },
+  {
+    "PatientID": "P0285",
+    "Age": 19,
+    "Gender": "Female",
+    "BMI": 37.3,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 7070.21
+  },
+  {
+    "PatientID": "P0286",
+    "Age": 19,
+    "Gender": "Male",
+    "BMI": 38.5,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 19371.11
+  },
+  {
+    "PatientID": "P0287",
+    "Age": 45,
+    "Gender": "Female",
+    "BMI": 30.7,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 20362.24
+  },
+  {
+    "PatientID": "P0288",
+    "Age": 71,
+    "Gender": "Male",
+    "BMI": 33.5,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 12190.43
+  },
+  {
+    "PatientID": "P0289",
+    "Age": 40,
+    "Gender": "Male",
+    "BMI": 38.3,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 9441.21
+  },
+  {
+    "PatientID": "P0290",
+    "Age": 54,
+    "Gender": "Male",
+    "BMI": 33.7,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 20249.16
+  },
+  {
+    "PatientID": "P0291",
+    "Age": 49,
+    "Gender": "Male",
+    "BMI": 21.8,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 7055.32
+  },
+  {
+    "PatientID": "P0292",
+    "Age": 50,
+    "Gender": "Female",
+    "BMI": 30.9,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 19287.45
+  },
+  {
+    "PatientID": "P0293",
+    "Age": 18,
+    "Gender": "Female",
+    "BMI": 31.5,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 8160.18
+  },
+  {
+    "PatientID": "P0294",
+    "Age": 36,
+    "Gender": "Male",
+    "BMI": 27.6,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 10827.54
+  },
+  {
+    "PatientID": "P0295",
+    "Age": 79,
+    "Gender": "Male",
+    "BMI": 34.3,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 11567.11
+  },
+  {
+    "PatientID": "P0296",
+    "Age": 19,
+    "Gender": "Male",
+    "BMI": 38.6,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 2929.22
+  },
+  {
+    "PatientID": "P0297",
+    "Age": 70,
+    "Gender": "Female",
+    "BMI": 38.4,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 12151.8
+  },
+  {
+    "PatientID": "P0298",
+    "Age": 61,
+    "Gender": "Male",
+    "BMI": 28.2,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 10259.47
+  },
+  {
+    "PatientID": "P0299",
+    "Age": 43,
+    "Gender": "Male",
+    "BMI": 20.9,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 7612.58
+  },
+  {
+    "PatientID": "P0300",
+    "Age": 49,
+    "Gender": "Female",
+    "BMI": 39.7,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 18642.96
+  },
+  {
+    "PatientID": "P0301",
+    "Age": 23,
+    "Gender": "Female",
+    "BMI": 36.5,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 9548.23
+  },
+  {
+    "PatientID": "P0302",
+    "Age": 49,
+    "Gender": "Male",
+    "BMI": 21.2,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 11345.05
+  },
+  {
+    "PatientID": "P0303",
+    "Age": 72,
+    "Gender": "Female",
+    "BMI": 38.3,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 9884.24
+  },
+  {
+    "PatientID": "P0304",
+    "Age": 21,
+    "Gender": "Female",
+    "BMI": 37.2,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 8084.1
+  },
+  {
+    "PatientID": "P0305",
+    "Age": 72,
+    "Gender": "Male",
+    "BMI": 29.7,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 9126.69
+  },
+  {
+    "PatientID": "P0306",
+    "Age": 28,
+    "Gender": "Female",
+    "BMI": 31.2,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 5760.76
+  },
+  {
+    "PatientID": "P0307",
+    "Age": 73,
+    "Gender": "Male",
+    "BMI": 27.1,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 8606.57
+  },
+  {
+    "PatientID": "P0308",
+    "Age": 76,
+    "Gender": "Female",
+    "BMI": 19.7,
+    "Smoker": "Yes",
+    "Region": "Northeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 22024.79
+  },
+  {
+    "PatientID": "P0309",
+    "Age": 34,
+    "Gender": "Male",
+    "BMI": 25.7,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 19176.25
+  },
+  {
+    "PatientID": "P0310",
+    "Age": 55,
+    "Gender": "Male",
+    "BMI": 35.8,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 10356.17
+  },
+  {
+    "PatientID": "P0311",
+    "Age": 41,
+    "Gender": "Male",
+    "BMI": 18.6,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 19500.19
+  },
+  {
+    "PatientID": "P0312",
+    "Age": 22,
+    "Gender": "Female",
+    "BMI": 25.7,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 7202.36
+  },
+  {
+    "PatientID": "P0313",
+    "Age": 69,
+    "Gender": "Male",
+    "BMI": 27.1,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 9377.04
+  },
+  {
+    "PatientID": "P0314",
+    "Age": 51,
+    "Gender": "Female",
+    "BMI": 30.1,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 10423.85
+  },
+  {
+    "PatientID": "P0315",
+    "Age": 23,
+    "Gender": "Male",
+    "BMI": 38.3,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 9580.82
+  },
+  {
+    "PatientID": "P0316",
+    "Age": 39,
+    "Gender": "Male",
+    "BMI": 25.9,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 18548.58
+  },
+  {
+    "PatientID": "P0317",
+    "Age": 28,
+    "Gender": "Female",
+    "BMI": 26.0,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 9877.83
+  },
+  {
+    "PatientID": "P0318",
+    "Age": 65,
+    "Gender": "Male",
+    "BMI": 34.4,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 11106.61
+  },
+  {
+    "PatientID": "P0319",
+    "Age": 33,
+    "Gender": "Male",
+    "BMI": 28.2,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 8672.9
+  },
+  {
+    "PatientID": "P0320",
+    "Age": 50,
+    "Gender": "Female",
+    "BMI": 23.3,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 11140.3
+  },
+  {
+    "PatientID": "P0321",
+    "Age": 26,
+    "Gender": "Male",
+    "BMI": 28.2,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 8566.96
+  },
+  {
+    "PatientID": "P0322",
+    "Age": 77,
+    "Gender": "Male",
+    "BMI": 21.5,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 7586.25
+  },
+  {
+    "PatientID": "P0323",
+    "Age": 76,
+    "Gender": "Male",
+    "BMI": 22.3,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 8973.87
+  },
+  {
+    "PatientID": "P0324",
+    "Age": 23,
+    "Gender": "Male",
+    "BMI": 29.2,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 6580.19
+  },
+  {
+    "PatientID": "P0325",
+    "Age": 33,
+    "Gender": "Female",
+    "BMI": 27.5,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 5549.64
+  },
+  {
+    "PatientID": "P0326",
+    "Age": 46,
+    "Gender": "Female",
+    "BMI": 38.2,
+    "Smoker": "Yes",
+    "Region": "Southwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 20330.96
+  },
+  {
+    "PatientID": "P0327",
+    "Age": 20,
+    "Gender": "Male",
+    "BMI": 26.3,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 5045.16
+  },
+  {
+    "PatientID": "P0328",
+    "Age": 37,
+    "Gender": "Female",
+    "BMI": 31.0,
+    "Smoker": "Yes",
+    "Region": "Southwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 18834.08
+  },
+  {
+    "PatientID": "P0329",
+    "Age": 77,
+    "Gender": "Male",
+    "BMI": 32.1,
+    "Smoker": "Yes",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 16272.77
+  },
+  {
+    "PatientID": "P0330",
+    "Age": 76,
+    "Gender": "Female",
+    "BMI": 18.8,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 11226.59
+  },
+  {
+    "PatientID": "P0331",
+    "Age": 53,
+    "Gender": "Male",
+    "BMI": 32.8,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 9432.41
+  },
+  {
+    "PatientID": "P0332",
+    "Age": 36,
+    "Gender": "Male",
+    "BMI": 22.3,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 5665.82
+  },
+  {
+    "PatientID": "P0333",
+    "Age": 43,
+    "Gender": "Male",
+    "BMI": 39.2,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 11888.49
+  },
+  {
+    "PatientID": "P0334",
+    "Age": 20,
+    "Gender": "Male",
+    "BMI": 21.7,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 7875.14
+  },
+  {
+    "PatientID": "P0335",
+    "Age": 36,
+    "Gender": "Male",
+    "BMI": 27.4,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 4824.88
+  },
+  {
+    "PatientID": "P0336",
+    "Age": 37,
+    "Gender": "Male",
+    "BMI": 20.3,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 6324.55
+  },
+  {
+    "PatientID": "P0337",
+    "Age": 49,
+    "Gender": "Female",
+    "BMI": 39.9,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 7401.72
+  },
+  {
+    "PatientID": "P0338",
+    "Age": 24,
+    "Gender": "Male",
+    "BMI": 29.3,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 6750.19
+  },
+  {
+    "PatientID": "P0339",
+    "Age": 69,
+    "Gender": "Female",
+    "BMI": 31.3,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 22238.95
+  },
+  {
+    "PatientID": "P0340",
+    "Age": 58,
+    "Gender": "Male",
+    "BMI": 19.9,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 7512.35
+  },
+  {
+    "PatientID": "P0341",
+    "Age": 50,
+    "Gender": "Female",
+    "BMI": 34.6,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 9930.97
+  },
+  {
+    "PatientID": "P0342",
+    "Age": 57,
+    "Gender": "Female",
+    "BMI": 23.0,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 3842.28
+  },
+  {
+    "PatientID": "P0343",
+    "Age": 56,
+    "Gender": "Female",
+    "BMI": 37.8,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 10350.84
+  },
+  {
+    "PatientID": "P0344",
+    "Age": 35,
+    "Gender": "Male",
+    "BMI": 22.9,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 4771.48
+  },
+  {
+    "PatientID": "P0345",
+    "Age": 57,
+    "Gender": "Male",
+    "BMI": 22.6,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 9969.87
+  },
+  {
+    "PatientID": "P0346",
+    "Age": 18,
+    "Gender": "Female",
+    "BMI": 19.3,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 7954.75
+  },
+  {
+    "PatientID": "P0347",
+    "Age": 28,
+    "Gender": "Male",
+    "BMI": 28.6,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 9981.32
+  },
+  {
+    "PatientID": "P0348",
+    "Age": 45,
+    "Gender": "Female",
+    "BMI": 30.6,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 5192.36
+  },
+  {
+    "PatientID": "P0349",
+    "Age": 74,
+    "Gender": "Male",
+    "BMI": 19.9,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 2660.98
+  },
+  {
+    "PatientID": "P0350",
+    "Age": 42,
+    "Gender": "Female",
+    "BMI": 35.2,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 8487.7
+  },
+  {
+    "PatientID": "P0351",
+    "Age": 67,
+    "Gender": "Female",
+    "BMI": 28.2,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 14271.02
+  },
+  {
+    "PatientID": "P0352",
+    "Age": 40,
+    "Gender": "Male",
+    "BMI": 29.8,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 11957.89
+  },
+  {
+    "PatientID": "P0353",
+    "Age": 48,
+    "Gender": "Female",
+    "BMI": 28.0,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 8619.32
+  },
+  {
+    "PatientID": "P0354",
+    "Age": 47,
+    "Gender": "Male",
+    "BMI": 27.1,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 8076.73
+  },
+  {
+    "PatientID": "P0355",
+    "Age": 59,
+    "Gender": "Female",
+    "BMI": 30.5,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 20614.25
+  },
+  {
+    "PatientID": "P0356",
+    "Age": 52,
+    "Gender": "Female",
+    "BMI": 21.8,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 6652.91
+  },
+  {
+    "PatientID": "P0357",
+    "Age": 24,
+    "Gender": "Male",
+    "BMI": 22.4,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 7152.72
+  },
+  {
+    "PatientID": "P0358",
+    "Age": 77,
+    "Gender": "Male",
+    "BMI": 37.0,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 21060.94
+  },
+  {
+    "PatientID": "P0359",
+    "Age": 33,
+    "Gender": "Male",
+    "BMI": 38.8,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 10150.42
+  },
+  {
+    "PatientID": "P0360",
+    "Age": 43,
+    "Gender": "Female",
+    "BMI": 26.5,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 13319.32
+  },
+  {
+    "PatientID": "P0361",
+    "Age": 65,
+    "Gender": "Male",
+    "BMI": 24.3,
+    "Smoker": "Yes",
+    "Region": "Southwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 19534.83
+  },
+  {
+    "PatientID": "P0362",
+    "Age": 74,
+    "Gender": "Female",
+    "BMI": 32.3,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 8412.07
+  },
+  {
+    "PatientID": "P0363",
+    "Age": 69,
+    "Gender": "Female",
+    "BMI": 27.3,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 9128.85
+  },
+  {
+    "PatientID": "P0364",
+    "Age": 77,
+    "Gender": "Male",
+    "BMI": 19.0,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 7311.85
+  },
+  {
+    "PatientID": "P0365",
+    "Age": 66,
+    "Gender": "Male",
+    "BMI": 21.9,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 8910.57
+  },
+  {
+    "PatientID": "P0366",
+    "Age": 19,
+    "Gender": "Female",
+    "BMI": 33.9,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 6521.44
+  },
+  {
+    "PatientID": "P0367",
+    "Age": 18,
+    "Gender": "Female",
+    "BMI": 32.7,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 5621.82
+  },
+  {
+    "PatientID": "P0368",
+    "Age": 65,
+    "Gender": "Male",
+    "BMI": 19.1,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 9054.71
+  },
+  {
+    "PatientID": "P0369",
+    "Age": 79,
+    "Gender": "Male",
+    "BMI": 23.3,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 7805.16
+  },
+  {
+    "PatientID": "P0370",
+    "Age": 29,
+    "Gender": "Male",
+    "BMI": 23.5,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 19192.06
+  },
+  {
+    "PatientID": "P0371",
+    "Age": 22,
+    "Gender": "Male",
+    "BMI": 32.9,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 7890.41
+  },
+  {
+    "PatientID": "P0372",
+    "Age": 54,
+    "Gender": "Male",
+    "BMI": 18.9,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 9681.4
+  },
+  {
+    "PatientID": "P0373",
+    "Age": 49,
+    "Gender": "Female",
+    "BMI": 20.7,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 8294.21
+  },
+  {
+    "PatientID": "P0374",
+    "Age": 76,
+    "Gender": "Female",
+    "BMI": 35.7,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 11680.38
+  },
+  {
+    "PatientID": "P0375",
+    "Age": 72,
+    "Gender": "Female",
+    "BMI": 22.3,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 11250.2
+  },
+  {
+    "PatientID": "P0376",
+    "Age": 26,
+    "Gender": "Female",
+    "BMI": 32.5,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 5815.74
+  },
+  {
+    "PatientID": "P0377",
+    "Age": 58,
+    "Gender": "Male",
+    "BMI": 23.6,
+    "Smoker": "Yes",
+    "Region": "Northeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 17583.77
+  },
+  {
+    "PatientID": "P0378",
+    "Age": 52,
+    "Gender": "Male",
+    "BMI": 20.6,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 7992.55
+  },
+  {
+    "PatientID": "P0379",
+    "Age": 36,
+    "Gender": "Male",
+    "BMI": 23.7,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 4108.26
+  },
+  {
+    "PatientID": "P0380",
+    "Age": 65,
+    "Gender": "Female",
+    "BMI": 34.0,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 9511.48
+  },
+  {
+    "PatientID": "P0381",
+    "Age": 33,
+    "Gender": "Female",
+    "BMI": 36.9,
+    "Smoker": "Yes",
+    "Region": "Northeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 18387.56
+  },
+  {
+    "PatientID": "P0382",
+    "Age": 20,
+    "Gender": "Male",
+    "BMI": 36.3,
+    "Smoker": "Yes",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 19378.78
+  },
+  {
+    "PatientID": "P0383",
+    "Age": 37,
+    "Gender": "Male",
+    "BMI": 27.0,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 9075.12
+  },
+  {
+    "PatientID": "P0384",
+    "Age": 41,
+    "Gender": "Female",
+    "BMI": 32.9,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 9727.18
+  },
+  {
+    "PatientID": "P0385",
+    "Age": 71,
+    "Gender": "Female",
+    "BMI": 22.9,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 12251.8
+  },
+  {
+    "PatientID": "P0386",
+    "Age": 73,
+    "Gender": "Male",
+    "BMI": 24.8,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 9875.26
+  },
+  {
+    "PatientID": "P0387",
+    "Age": 50,
+    "Gender": "Male",
+    "BMI": 37.8,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 11060.93
+  },
+  {
+    "PatientID": "P0388",
+    "Age": 41,
+    "Gender": "Female",
+    "BMI": 18.8,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 7843.56
+  },
+  {
+    "PatientID": "P0389",
+    "Age": 69,
+    "Gender": "Male",
+    "BMI": 20.3,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 10980.72
+  },
+  {
+    "PatientID": "P0390",
+    "Age": 28,
+    "Gender": "Male",
+    "BMI": 23.0,
+    "Smoker": "Yes",
+    "Region": "Southwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 15234.48
+  },
+  {
+    "PatientID": "P0391",
+    "Age": 66,
+    "Gender": "Male",
+    "BMI": 19.1,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 13922.37
+  },
+  {
+    "PatientID": "P0392",
+    "Age": 25,
+    "Gender": "Female",
+    "BMI": 22.4,
+    "Smoker": "Yes",
+    "Region": "Northeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 17481.44
+  },
+  {
+    "PatientID": "P0393",
+    "Age": 53,
+    "Gender": "Female",
+    "BMI": 31.0,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 11595.5
+  },
+  {
+    "PatientID": "P0394",
+    "Age": 55,
+    "Gender": "Female",
+    "BMI": 27.6,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 9862.43
+  },
+  {
+    "PatientID": "P0395",
+    "Age": 57,
+    "Gender": "Female",
+    "BMI": 37.7,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 11550.79
+  },
+  {
+    "PatientID": "P0396",
+    "Age": 37,
+    "Gender": "Female",
+    "BMI": 36.1,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 10432.26
+  },
+  {
+    "PatientID": "P0397",
+    "Age": 79,
+    "Gender": "Female",
+    "BMI": 25.8,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 10207.32
+  },
+  {
+    "PatientID": "P0398",
+    "Age": 52,
+    "Gender": "Female",
+    "BMI": 24.1,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 9494.63
+  },
+  {
+    "PatientID": "P0399",
+    "Age": 65,
+    "Gender": "Male",
+    "BMI": 26.7,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 7184.7
+  },
+  {
+    "PatientID": "P0400",
+    "Age": 79,
+    "Gender": "Male",
+    "BMI": 31.2,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 9437.85
+  },
+  {
+    "PatientID": "P0401",
+    "Age": 42,
+    "Gender": "Male",
+    "BMI": 24.3,
+    "Smoker": "Yes",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 19831.54
+  },
+  {
+    "PatientID": "P0402",
+    "Age": 52,
+    "Gender": "Male",
+    "BMI": 31.9,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 11697.77
+  },
+  {
+    "PatientID": "P0403",
+    "Age": 42,
+    "Gender": "Male",
+    "BMI": 27.3,
+    "Smoker": "Yes",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 18551.11
+  },
+  {
+    "PatientID": "P0404",
+    "Age": 46,
+    "Gender": "Male",
+    "BMI": 30.4,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 6939.62
+  },
+  {
+    "PatientID": "P0405",
+    "Age": 35,
+    "Gender": "Male",
+    "BMI": 27.9,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 8041.06
+  },
+  {
+    "PatientID": "P0406",
+    "Age": 63,
+    "Gender": "Female",
+    "BMI": 24.8,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 19852.41
+  },
+  {
+    "PatientID": "P0407",
+    "Age": 35,
+    "Gender": "Female",
+    "BMI": 38.9,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 16252.29
+  },
+  {
+    "PatientID": "P0408",
+    "Age": 19,
+    "Gender": "Male",
+    "BMI": 34.9,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 3347.64
+  },
+  {
+    "PatientID": "P0409",
+    "Age": 71,
+    "Gender": "Male",
+    "BMI": 21.5,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 9448.93
+  },
+  {
+    "PatientID": "P0410",
+    "Age": 52,
+    "Gender": "Female",
+    "BMI": 37.2,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 7378.58
+  },
+  {
+    "PatientID": "P0411",
+    "Age": 33,
+    "Gender": "Male",
+    "BMI": 29.0,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 7033.72
+  },
+  {
+    "PatientID": "P0412",
+    "Age": 78,
+    "Gender": "Male",
+    "BMI": 37.7,
+    "Smoker": "Yes",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 21374.44
+  },
+  {
+    "PatientID": "P0413",
+    "Age": 58,
+    "Gender": "Female",
+    "BMI": 35.7,
+    "Smoker": "Yes",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 18563.5
+  },
+  {
+    "PatientID": "P0414",
+    "Age": 53,
+    "Gender": "Male",
+    "BMI": 27.6,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 12314.94
+  },
+  {
+    "PatientID": "P0415",
+    "Age": 50,
+    "Gender": "Female",
+    "BMI": 19.0,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 9653.49
+  },
+  {
+    "PatientID": "P0416",
+    "Age": 21,
+    "Gender": "Male",
+    "BMI": 24.3,
+    "Smoker": "Yes",
+    "Region": "Southwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 16650.95
+  },
+  {
+    "PatientID": "P0417",
+    "Age": 50,
+    "Gender": "Female",
+    "BMI": 30.1,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 10754.41
+  },
+  {
+    "PatientID": "P0418",
+    "Age": 31,
+    "Gender": "Female",
+    "BMI": 32.1,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 6982.33
+  },
+  {
+    "PatientID": "P0419",
+    "Age": 38,
+    "Gender": "Female",
+    "BMI": 24.0,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 10978.22
+  },
+  {
+    "PatientID": "P0420",
+    "Age": 65,
+    "Gender": "Male",
+    "BMI": 21.5,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 8098.47
+  },
+  {
+    "PatientID": "P0421",
+    "Age": 37,
+    "Gender": "Female",
+    "BMI": 36.5,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 9840.96
+  },
+  {
+    "PatientID": "P0422",
+    "Age": 73,
+    "Gender": "Male",
+    "BMI": 39.7,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 8476.29
+  },
+  {
+    "PatientID": "P0423",
+    "Age": 25,
+    "Gender": "Male",
+    "BMI": 29.8,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 5122.48
+  },
+  {
+    "PatientID": "P0424",
+    "Age": 24,
+    "Gender": "Male",
+    "BMI": 22.2,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 19335.78
+  },
+  {
+    "PatientID": "P0425",
+    "Age": 20,
+    "Gender": "Male",
+    "BMI": 24.4,
+    "Smoker": "Yes",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 18252.82
+  },
+  {
+    "PatientID": "P0426",
+    "Age": 34,
+    "Gender": "Female",
+    "BMI": 18.9,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 5395.9
+  },
+  {
+    "PatientID": "P0427",
+    "Age": 50,
+    "Gender": "Female",
+    "BMI": 38.2,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 8080.67
+  },
+  {
+    "PatientID": "P0428",
+    "Age": 65,
+    "Gender": "Male",
+    "BMI": 21.0,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 12500.87
+  },
+  {
+    "PatientID": "P0429",
+    "Age": 29,
+    "Gender": "Male",
+    "BMI": 30.9,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 5661.18
+  },
+  {
+    "PatientID": "P0430",
+    "Age": 76,
+    "Gender": "Female",
+    "BMI": 24.4,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 13085.35
+  },
+  {
+    "PatientID": "P0431",
+    "Age": 68,
+    "Gender": "Male",
+    "BMI": 30.4,
+    "Smoker": "Yes",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 17638.76
+  },
+  {
+    "PatientID": "P0432",
+    "Age": 39,
+    "Gender": "Female",
+    "BMI": 32.5,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 9976.78
+  },
+  {
+    "PatientID": "P0433",
+    "Age": 72,
+    "Gender": "Male",
+    "BMI": 36.3,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 9072.76
+  },
+  {
+    "PatientID": "P0434",
+    "Age": 39,
+    "Gender": "Male",
+    "BMI": 22.9,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 9656.37
+  },
+  {
+    "PatientID": "P0435",
+    "Age": 63,
+    "Gender": "Female",
+    "BMI": 18.7,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 17061.77
+  },
+  {
+    "PatientID": "P0436",
+    "Age": 47,
+    "Gender": "Male",
+    "BMI": 21.4,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 9024.41
+  },
+  {
+    "PatientID": "P0437",
+    "Age": 55,
+    "Gender": "Female",
+    "BMI": 37.9,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 10621.84
+  },
+  {
+    "PatientID": "P0438",
+    "Age": 55,
+    "Gender": "Male",
+    "BMI": 37.3,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 7975.63
+  },
+  {
+    "PatientID": "P0439",
+    "Age": 62,
+    "Gender": "Male",
+    "BMI": 31.3,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 12211.65
+  },
+  {
+    "PatientID": "P0440",
+    "Age": 68,
+    "Gender": "Male",
+    "BMI": 31.4,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 9513.57
+  },
+  {
+    "PatientID": "P0441",
+    "Age": 71,
+    "Gender": "Female",
+    "BMI": 32.8,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 9872.8
+  },
+  {
+    "PatientID": "P0442",
+    "Age": 25,
+    "Gender": "Male",
+    "BMI": 22.3,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 4261.3
+  },
+  {
+    "PatientID": "P0443",
+    "Age": 44,
+    "Gender": "Male",
+    "BMI": 38.2,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 4895.33
+  },
+  {
+    "PatientID": "P0444",
+    "Age": 44,
+    "Gender": "Male",
+    "BMI": 27.5,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 18067.94
+  },
+  {
+    "PatientID": "P0445",
+    "Age": 51,
+    "Gender": "Male",
+    "BMI": 26.7,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 12545.23
+  },
+  {
+    "PatientID": "P0446",
+    "Age": 38,
+    "Gender": "Female",
+    "BMI": 29.7,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 10939.21
+  },
+  {
+    "PatientID": "P0447",
+    "Age": 47,
+    "Gender": "Female",
+    "BMI": 19.5,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 9311.48
+  },
+  {
+    "PatientID": "P0448",
+    "Age": 50,
+    "Gender": "Male",
+    "BMI": 22.1,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 8974.22
+  },
+  {
+    "PatientID": "P0449",
+    "Age": 45,
+    "Gender": "Female",
+    "BMI": 34.4,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 10234.93
+  },
+  {
+    "PatientID": "P0450",
+    "Age": 64,
+    "Gender": "Male",
+    "BMI": 20.3,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 9794.24
+  },
+  {
+    "PatientID": "P0451",
+    "Age": 50,
+    "Gender": "Male",
+    "BMI": 31.5,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 7288.37
+  },
+  {
+    "PatientID": "P0452",
+    "Age": 22,
+    "Gender": "Male",
+    "BMI": 23.8,
+    "Smoker": "Yes",
+    "Region": "Northeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 19828.64
+  },
+  {
+    "PatientID": "P0453",
+    "Age": 77,
+    "Gender": "Female",
+    "BMI": 26.9,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 10970.76
+  },
+  {
+    "PatientID": "P0454",
+    "Age": 78,
+    "Gender": "Female",
+    "BMI": 24.7,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 11336.37
+  },
+  {
+    "PatientID": "P0455",
+    "Age": 65,
+    "Gender": "Female",
+    "BMI": 26.1,
+    "Smoker": "Yes",
+    "Region": "Southwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 20236.95
+  },
+  {
+    "PatientID": "P0456",
+    "Age": 36,
+    "Gender": "Female",
+    "BMI": 34.0,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 9739.23
+  },
+  {
+    "PatientID": "P0457",
+    "Age": 21,
+    "Gender": "Female",
+    "BMI": 24.9,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 7395.72
+  },
+  {
+    "PatientID": "P0458",
+    "Age": 52,
+    "Gender": "Female",
+    "BMI": 30.7,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 10353.63
+  },
+  {
+    "PatientID": "P0459",
+    "Age": 66,
+    "Gender": "Female",
+    "BMI": 28.7,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 0,
+    "MedicalCost_USD": 7961.92
+  },
+  {
+    "PatientID": "P0460",
+    "Age": 34,
+    "Gender": "Female",
+    "BMI": 32.8,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 7832.8
+  },
+  {
+    "PatientID": "P0461",
+    "Age": 61,
+    "Gender": "Female",
+    "BMI": 38.6,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 9613.71
+  },
+  {
+    "PatientID": "P0462",
+    "Age": 45,
+    "Gender": "Male",
+    "BMI": 34.3,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 12778.04
+  },
+  {
+    "PatientID": "P0463",
+    "Age": 47,
+    "Gender": "Female",
+    "BMI": 23.1,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 5371.79
+  },
+  {
+    "PatientID": "P0464",
+    "Age": 46,
+    "Gender": "Female",
+    "BMI": 19.2,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 4864.95
+  },
+  {
+    "PatientID": "P0465",
+    "Age": 63,
+    "Gender": "Female",
+    "BMI": 24.1,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 10479.52
+  },
+  {
+    "PatientID": "P0466",
+    "Age": 70,
+    "Gender": "Female",
+    "BMI": 31.3,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 10231.78
+  },
+  {
+    "PatientID": "P0467",
+    "Age": 23,
+    "Gender": "Female",
+    "BMI": 19.6,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 8496.68
+  },
+  {
+    "PatientID": "P0468",
+    "Age": 52,
+    "Gender": "Female",
+    "BMI": 29.2,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 10007.91
+  },
+  {
+    "PatientID": "P0469",
+    "Age": 77,
+    "Gender": "Female",
+    "BMI": 31.3,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 11033.6
+  },
+  {
+    "PatientID": "P0470",
+    "Age": 58,
+    "Gender": "Female",
+    "BMI": 25.7,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 10949.73
+  },
+  {
+    "PatientID": "P0471",
+    "Age": 54,
+    "Gender": "Female",
+    "BMI": 35.1,
+    "Smoker": "Yes",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 17008.19
+  },
+  {
+    "PatientID": "P0472",
+    "Age": 41,
+    "Gender": "Female",
+    "BMI": 20.8,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 5893.01
+  },
+  {
+    "PatientID": "P0473",
+    "Age": 46,
+    "Gender": "Female",
+    "BMI": 20.1,
+    "Smoker": "Yes",
+    "Region": "Southwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 18093.49
+  },
+  {
+    "PatientID": "P0474",
+    "Age": 66,
+    "Gender": "Male",
+    "BMI": 34.2,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 7433.62
+  },
+  {
+    "PatientID": "P0475",
+    "Age": 63,
+    "Gender": "Male",
+    "BMI": 29.2,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 9718.29
+  },
+  {
+    "PatientID": "P0476",
+    "Age": 70,
+    "Gender": "Female",
+    "BMI": 33.3,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 12652.94
+  },
+  {
+    "PatientID": "P0477",
+    "Age": 48,
+    "Gender": "Female",
+    "BMI": 27.8,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 8721.77
+  },
+  {
+    "PatientID": "P0478",
+    "Age": 52,
+    "Gender": "Male",
+    "BMI": 23.8,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 1,
+    "MedicalCost_USD": 8561.4
+  },
+  {
+    "PatientID": "P0479",
+    "Age": 77,
+    "Gender": "Female",
+    "BMI": 36.1,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 8939.67
+  },
+  {
+    "PatientID": "P0480",
+    "Age": 50,
+    "Gender": "Male",
+    "BMI": 35.7,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 8837.28
+  },
+  {
+    "PatientID": "P0481",
+    "Age": 69,
+    "Gender": "Male",
+    "BMI": 33.4,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 8539.61
+  },
+  {
+    "PatientID": "P0482",
+    "Age": 78,
+    "Gender": "Male",
+    "BMI": 24.4,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 10264.57
+  },
+  {
+    "PatientID": "P0483",
+    "Age": 38,
+    "Gender": "Male",
+    "BMI": 31.2,
+    "Smoker": "Yes",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 20583.29
+  },
+  {
+    "PatientID": "P0484",
+    "Age": 49,
+    "Gender": "Male",
+    "BMI": 26.3,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 9695.38
+  },
+  {
+    "PatientID": "P0485",
+    "Age": 40,
+    "Gender": "Female",
+    "BMI": 20.5,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 6277.08
+  },
+  {
+    "PatientID": "P0486",
+    "Age": 50,
+    "Gender": "Male",
+    "BMI": 38.2,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 10813.01
+  },
+  {
+    "PatientID": "P0487",
+    "Age": 20,
+    "Gender": "Female",
+    "BMI": 21.4,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 7496.44
+  },
+  {
+    "PatientID": "P0488",
+    "Age": 35,
+    "Gender": "Female",
+    "BMI": 38.9,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 4,
+    "MedicalCost_USD": 12420.3
+  },
+  {
+    "PatientID": "P0489",
+    "Age": 42,
+    "Gender": "Male",
+    "BMI": 28.1,
+    "Smoker": "No",
+    "Region": "Southeast",
+    "NumChildren": 3,
+    "MedicalCost_USD": 12071.08
+  },
+  {
+    "PatientID": "P0490",
+    "Age": 59,
+    "Gender": "Male",
+    "BMI": 22.5,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 6419.81
+  },
+  {
+    "PatientID": "P0491",
+    "Age": 48,
+    "Gender": "Female",
+    "BMI": 30.2,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 6298.28
+  },
+  {
+    "PatientID": "P0492",
+    "Age": 71,
+    "Gender": "Male",
+    "BMI": 37.3,
+    "Smoker": "Yes",
+    "Region": "Northeast",
+    "NumChildren": 4,
+    "MedicalCost_USD": 19264.84
+  },
+  {
+    "PatientID": "P0493",
+    "Age": 75,
+    "Gender": "Male",
+    "BMI": 34.2,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 10201.96
+  },
+  {
+    "PatientID": "P0494",
+    "Age": 20,
+    "Gender": "Female",
+    "BMI": 35.8,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 3,
+    "MedicalCost_USD": 9512.72
+  },
+  {
+    "PatientID": "P0495",
+    "Age": 57,
+    "Gender": "Female",
+    "BMI": 32.7,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 11094.67
+  },
+  {
+    "PatientID": "P0496",
+    "Age": 63,
+    "Gender": "Male",
+    "BMI": 33.4,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 0,
+    "MedicalCost_USD": 8838.1
+  },
+  {
+    "PatientID": "P0497",
+    "Age": 41,
+    "Gender": "Female",
+    "BMI": 36.8,
+    "Smoker": "No",
+    "Region": "Northeast",
+    "NumChildren": 2,
+    "MedicalCost_USD": 8590.3
+  },
+  {
+    "PatientID": "P0498",
+    "Age": 67,
+    "Gender": "Male",
+    "BMI": 23.9,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 9153.52
+  },
+  {
+    "PatientID": "P0499",
+    "Age": 49,
+    "Gender": "Male",
+    "BMI": 29.0,
+    "Smoker": "No",
+    "Region": "Southwest",
+    "NumChildren": 1,
+    "MedicalCost_USD": 6679.71
+  },
+  {
+    "PatientID": "P0500",
+    "Age": 64,
+    "Gender": "Male",
+    "BMI": 23.3,
+    "Smoker": "No",
+    "Region": "Northwest",
+    "NumChildren": 2,
+    "MedicalCost_USD": 13379.08
+  }
+]

@@ -1,0 +1,6002 @@
+[
+  {
+    "CustomerID": "C0001",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 41.96,
+    "TotalUsage_GB": 385,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0002",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 56.22,
+    "TotalUsage_GB": 464,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0003",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 43.01,
+    "TotalUsage_GB": 11,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0004",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 31.53,
+    "TotalUsage_GB": 33,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0005",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 35.68,
+    "TotalUsage_GB": 399,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0006",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 79.9,
+    "TotalUsage_GB": 37,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0007",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 46.82,
+    "TotalUsage_GB": 138,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0008",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 67.36,
+    "TotalUsage_GB": 371,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0009",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 85.44,
+    "TotalUsage_GB": 83,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0010",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 109.75,
+    "TotalUsage_GB": 420,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0011",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 25.11,
+    "TotalUsage_GB": 439,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0012",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 123.92,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0013",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 101.63,
+    "TotalUsage_GB": 62,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0014",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 30.63,
+    "TotalUsage_GB": 475,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0015",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 133.57,
+    "TotalUsage_GB": 30,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0016",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 139.71,
+    "TotalUsage_GB": 486,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0017",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 27.94,
+    "TotalUsage_GB": 434,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0018",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 55.99,
+    "TotalUsage_GB": 230,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0019",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 124.81,
+    "TotalUsage_GB": 289,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0020",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 117.27,
+    "TotalUsage_GB": 8,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0021",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 43.99,
+    "TotalUsage_GB": 469,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0022",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 47.22,
+    "TotalUsage_GB": 103,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0023",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 68.16,
+    "TotalUsage_GB": 401,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0024",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 82.99,
+    "TotalUsage_GB": 493,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0025",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 100.37,
+    "TotalUsage_GB": 43,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0026",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 67.96,
+    "TotalUsage_GB": 275,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0027",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 80.13,
+    "TotalUsage_GB": 379,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0028",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 117.17,
+    "TotalUsage_GB": 289,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0029",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 24.77,
+    "TotalUsage_GB": 161,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0030",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 52.82,
+    "TotalUsage_GB": 79,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0031",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 112.74,
+    "TotalUsage_GB": 376,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0032",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 136.38,
+    "TotalUsage_GB": 292,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0033",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 86.52,
+    "TotalUsage_GB": 134,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0034",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 89.17,
+    "TotalUsage_GB": 179,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0035",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 33.93,
+    "TotalUsage_GB": 466,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0036",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 78.16,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0037",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 89.24,
+    "TotalUsage_GB": 26,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0038",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 51.52,
+    "TotalUsage_GB": 463,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0039",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 55.0,
+    "TotalUsage_GB": 31,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0040",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 69.05,
+    "TotalUsage_GB": 199,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0041",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 22.61,
+    "TotalUsage_GB": 341,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0042",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 61.87,
+    "TotalUsage_GB": 386,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0043",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 47.49,
+    "TotalUsage_GB": 240,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0044",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 62.57,
+    "TotalUsage_GB": 444,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0045",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 35.57,
+    "TotalUsage_GB": 96,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0046",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 135.77,
+    "TotalUsage_GB": 481,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0047",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 97.17,
+    "TotalUsage_GB": 25,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0048",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 108.28,
+    "TotalUsage_GB": 307,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0049",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 122.59,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0050",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 84.8,
+    "TotalUsage_GB": 361,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0051",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 31.3,
+    "TotalUsage_GB": 447,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0052",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 89.82,
+    "TotalUsage_GB": 88,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0053",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 96.29,
+    "TotalUsage_GB": 266,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0054",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 116.91,
+    "TotalUsage_GB": 151,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0055",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 76.12,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0056",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 36.59,
+    "TotalUsage_GB": 457,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0057",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 56.89,
+    "TotalUsage_GB": 391,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0058",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 67.2,
+    "TotalUsage_GB": 261,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0059",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 103.97,
+    "TotalUsage_GB": 62,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0060",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 94.2,
+    "TotalUsage_GB": 384,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0061",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 66.29,
+    "TotalUsage_GB": 426,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0062",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 148.25,
+    "TotalUsage_GB": 19,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0063",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 98.75,
+    "TotalUsage_GB": 166,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0064",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 50.84,
+    "TotalUsage_GB": 449,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0065",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 33.23,
+    "TotalUsage_GB": 167,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0066",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 39.87,
+    "TotalUsage_GB": 324,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0067",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 51.97,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0068",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 40.89,
+    "TotalUsage_GB": 284,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0069",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 44.25,
+    "TotalUsage_GB": 16,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0070",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 57.06,
+    "TotalUsage_GB": 278,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0071",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 42.54,
+    "TotalUsage_GB": 275,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0072",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 136.58,
+    "TotalUsage_GB": 496,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0073",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 30.43,
+    "TotalUsage_GB": 212,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0074",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 88.19,
+    "TotalUsage_GB": 31,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0075",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 73.35,
+    "TotalUsage_GB": 76,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0076",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 147.71,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0077",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 34.57,
+    "TotalUsage_GB": 434,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0078",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 71.72,
+    "TotalUsage_GB": 477,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0079",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 146.03,
+    "TotalUsage_GB": 149,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0080",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 132.52,
+    "TotalUsage_GB": 97,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0081",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 126.22,
+    "TotalUsage_GB": 313,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0082",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 53.53,
+    "TotalUsage_GB": 12,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0083",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 42.22,
+    "TotalUsage_GB": 83,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0084",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 106.92,
+    "TotalUsage_GB": 31,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0085",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 140.82,
+    "TotalUsage_GB": 178,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0086",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 92.38,
+    "TotalUsage_GB": 54,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0087",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 94.31,
+    "TotalUsage_GB": 203,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0088",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 56.4,
+    "TotalUsage_GB": 391,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0089",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 120.03,
+    "TotalUsage_GB": 353,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0090",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 44.32,
+    "TotalUsage_GB": 452,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0091",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 62.08,
+    "TotalUsage_GB": 432,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0092",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 75.31,
+    "TotalUsage_GB": 185,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0093",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 85.99,
+    "TotalUsage_GB": 28,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0094",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 51.51,
+    "TotalUsage_GB": 320,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0095",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 34.93,
+    "TotalUsage_GB": 382,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0096",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 99.38,
+    "TotalUsage_GB": 391,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0097",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 57.52,
+    "TotalUsage_GB": 408,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0098",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 95.56,
+    "TotalUsage_GB": 50,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0099",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 40.07,
+    "TotalUsage_GB": 19,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0100",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 82.55,
+    "TotalUsage_GB": 157,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0101",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 89.24,
+    "TotalUsage_GB": 226,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0102",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 26.74,
+    "TotalUsage_GB": 210,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0103",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 63.76,
+    "TotalUsage_GB": 459,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0104",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 37.47,
+    "TotalUsage_GB": 277,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0105",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 28.24,
+    "TotalUsage_GB": 386,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0106",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 148.69,
+    "TotalUsage_GB": 240,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0107",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 61.91,
+    "TotalUsage_GB": 344,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0108",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 125.28,
+    "TotalUsage_GB": 232,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0109",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 53.1,
+    "TotalUsage_GB": 13,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0110",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 108.6,
+    "TotalUsage_GB": 170,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0111",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 118.83,
+    "TotalUsage_GB": 436,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0112",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 97.43,
+    "TotalUsage_GB": 448,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0113",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 81.3,
+    "TotalUsage_GB": 323,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0114",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 73.54,
+    "TotalUsage_GB": 218,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0115",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 65.35,
+    "TotalUsage_GB": 121,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0116",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 140.84,
+    "TotalUsage_GB": 390,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0117",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 127.98,
+    "TotalUsage_GB": 348,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0118",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 145.45,
+    "TotalUsage_GB": 76,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0119",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 36.16,
+    "TotalUsage_GB": 399,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0120",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 115.01,
+    "TotalUsage_GB": 68,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0121",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 141.98,
+    "TotalUsage_GB": 209,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0122",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 43.56,
+    "TotalUsage_GB": 213,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0123",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 28.64,
+    "TotalUsage_GB": 76,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0124",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 116.35,
+    "TotalUsage_GB": 281,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0125",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 94.68,
+    "TotalUsage_GB": 278,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0126",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 129.44,
+    "TotalUsage_GB": 482,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0127",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 38.17,
+    "TotalUsage_GB": 324,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0128",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 123.38,
+    "TotalUsage_GB": 342,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0129",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 46.21,
+    "TotalUsage_GB": 370,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0130",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 41.28,
+    "TotalUsage_GB": 499,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0131",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 41.35,
+    "TotalUsage_GB": 99,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0132",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 125.89,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0133",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 106.48,
+    "TotalUsage_GB": 36,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0134",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 88.0,
+    "TotalUsage_GB": 15,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0135",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 66.65,
+    "TotalUsage_GB": 305,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0136",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 134.04,
+    "TotalUsage_GB": 221,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0137",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 71.02,
+    "TotalUsage_GB": 293,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0138",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 126.16,
+    "TotalUsage_GB": 106,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0139",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 77.09,
+    "TotalUsage_GB": 429,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0140",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 69.0,
+    "TotalUsage_GB": 396,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0141",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 80.15,
+    "TotalUsage_GB": 271,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0142",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 59.18,
+    "TotalUsage_GB": 218,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0143",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 117.19,
+    "TotalUsage_GB": 183,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0144",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 85.35,
+    "TotalUsage_GB": 92,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0145",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 50.19,
+    "TotalUsage_GB": 45,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0146",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 136.94,
+    "TotalUsage_GB": 405,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0147",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 69.91,
+    "TotalUsage_GB": 80,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0148",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 90.66,
+    "TotalUsage_GB": 381,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0149",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 137.84,
+    "TotalUsage_GB": 50,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0150",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 101.15,
+    "TotalUsage_GB": 164,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0151",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 35.2,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0152",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 142.18,
+    "TotalUsage_GB": 84,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0153",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 101.6,
+    "TotalUsage_GB": 314,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0154",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 63.54,
+    "TotalUsage_GB": 90,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0155",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 38.11,
+    "TotalUsage_GB": 96,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0156",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 123.22,
+    "TotalUsage_GB": 152,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0157",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 100.61,
+    "TotalUsage_GB": 165,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0158",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 89.35,
+    "TotalUsage_GB": 206,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0159",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 136.21,
+    "TotalUsage_GB": 428,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0160",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 122.52,
+    "TotalUsage_GB": 420,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0161",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 39.72,
+    "TotalUsage_GB": 246,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0162",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 60.52,
+    "TotalUsage_GB": 357,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0163",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 52.3,
+    "TotalUsage_GB": 6,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0164",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 116.71,
+    "TotalUsage_GB": 229,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0165",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 24.36,
+    "TotalUsage_GB": 293,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0166",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 94.09,
+    "TotalUsage_GB": 237,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0167",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 119.12,
+    "TotalUsage_GB": 465,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0168",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 133.98,
+    "TotalUsage_GB": 418,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0169",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 64.47,
+    "TotalUsage_GB": 421,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0170",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 126.76,
+    "TotalUsage_GB": 81,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0171",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 34.38,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0172",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 130.04,
+    "TotalUsage_GB": 158,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0173",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 36.57,
+    "TotalUsage_GB": 410,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0174",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 71.65,
+    "TotalUsage_GB": 107,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0175",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 123.65,
+    "TotalUsage_GB": 198,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0176",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 39.49,
+    "TotalUsage_GB": 170,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0177",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 49.8,
+    "TotalUsage_GB": 363,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0178",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 113.89,
+    "TotalUsage_GB": 94,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0179",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 113.6,
+    "TotalUsage_GB": 178,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0180",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 103.35,
+    "TotalUsage_GB": 126,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0181",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 110.21,
+    "TotalUsage_GB": 147,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0182",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 90.55,
+    "TotalUsage_GB": 486,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0183",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 52.73,
+    "TotalUsage_GB": 110,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0184",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 64.94,
+    "TotalUsage_GB": 379,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0185",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 43.61,
+    "TotalUsage_GB": 432,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0186",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 138.1,
+    "TotalUsage_GB": 309,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0187",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 95.84,
+    "TotalUsage_GB": 364,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0188",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 72.11,
+    "TotalUsage_GB": 463,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0189",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 80.06,
+    "TotalUsage_GB": 321,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0190",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 143.15,
+    "TotalUsage_GB": 455,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0191",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 39.94,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0192",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 96.21,
+    "TotalUsage_GB": 394,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0193",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 85.77,
+    "TotalUsage_GB": 13,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0194",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 99.49,
+    "TotalUsage_GB": 266,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0195",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 22.35,
+    "TotalUsage_GB": 77,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0196",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 133.38,
+    "TotalUsage_GB": 363,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0197",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 141.18,
+    "TotalUsage_GB": 227,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0198",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 93.47,
+    "TotalUsage_GB": 420,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0199",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 110.56,
+    "TotalUsage_GB": 45,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0200",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 139.92,
+    "TotalUsage_GB": 374,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0201",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 111.94,
+    "TotalUsage_GB": 208,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0202",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 39.83,
+    "TotalUsage_GB": 268,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0203",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 94.92,
+    "TotalUsage_GB": 332,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0204",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 98.87,
+    "TotalUsage_GB": 182,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0205",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 75.14,
+    "TotalUsage_GB": 352,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0206",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 115.74,
+    "TotalUsage_GB": 322,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0207",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 141.47,
+    "TotalUsage_GB": 88,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0208",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 140.32,
+    "TotalUsage_GB": 322,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0209",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 78.61,
+    "TotalUsage_GB": 115,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0210",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 34.72,
+    "TotalUsage_GB": 255,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0211",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 148.03,
+    "TotalUsage_GB": 387,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0212",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 129.06,
+    "TotalUsage_GB": 11,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0213",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 36.21,
+    "TotalUsage_GB": 463,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0214",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 139.71,
+    "TotalUsage_GB": 88,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0215",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 133.09,
+    "TotalUsage_GB": 212,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0216",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 87.45,
+    "TotalUsage_GB": 392,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0217",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 96.87,
+    "TotalUsage_GB": 394,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0218",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 71.87,
+    "TotalUsage_GB": 318,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0219",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 27.12,
+    "TotalUsage_GB": 26,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0220",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 63.58,
+    "TotalUsage_GB": 414,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0221",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 124.37,
+    "TotalUsage_GB": 387,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0222",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 20.6,
+    "TotalUsage_GB": 7,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0223",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 63.35,
+    "TotalUsage_GB": 131,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0224",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 71.76,
+    "TotalUsage_GB": 301,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0225",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 89.86,
+    "TotalUsage_GB": 192,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0226",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 139.58,
+    "TotalUsage_GB": 366,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0227",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 65.02,
+    "TotalUsage_GB": 18,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0228",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 65.1,
+    "TotalUsage_GB": 463,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0229",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 115.88,
+    "TotalUsage_GB": 470,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0230",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 78.79,
+    "TotalUsage_GB": 16,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0231",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 49.2,
+    "TotalUsage_GB": 91,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0232",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 78.82,
+    "TotalUsage_GB": 16,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0233",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 38.31,
+    "TotalUsage_GB": 401,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0234",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 42.93,
+    "TotalUsage_GB": 29,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0235",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 84.79,
+    "TotalUsage_GB": 305,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0236",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 74.46,
+    "TotalUsage_GB": 247,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0237",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 138.93,
+    "TotalUsage_GB": 126,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0238",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 67.11,
+    "TotalUsage_GB": 151,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0239",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 95.48,
+    "TotalUsage_GB": 59,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0240",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 102.19,
+    "TotalUsage_GB": 242,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0241",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 21.7,
+    "TotalUsage_GB": 360,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0242",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 106.26,
+    "TotalUsage_GB": 177,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0243",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 43.14,
+    "TotalUsage_GB": 396,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0244",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 144.94,
+    "TotalUsage_GB": 225,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0245",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 39.33,
+    "TotalUsage_GB": 123,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0246",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 73.9,
+    "TotalUsage_GB": 313,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0247",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 31.1,
+    "TotalUsage_GB": 187,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0248",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 149.59,
+    "TotalUsage_GB": 292,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0249",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 85.29,
+    "TotalUsage_GB": 311,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0250",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 97.4,
+    "TotalUsage_GB": 304,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0251",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 28.72,
+    "TotalUsage_GB": 86,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0252",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 117.49,
+    "TotalUsage_GB": 458,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0253",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 47.29,
+    "TotalUsage_GB": 406,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0254",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 136.75,
+    "TotalUsage_GB": 215,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0255",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 46.67,
+    "TotalUsage_GB": 154,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0256",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 44.79,
+    "TotalUsage_GB": 41,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0257",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 24.75,
+    "TotalUsage_GB": 356,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0258",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 81.37,
+    "TotalUsage_GB": 316,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0259",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 93.43,
+    "TotalUsage_GB": 365,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0260",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 28.54,
+    "TotalUsage_GB": 63,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0261",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 120.82,
+    "TotalUsage_GB": 135,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0262",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 78.93,
+    "TotalUsage_GB": 416,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0263",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 88.17,
+    "TotalUsage_GB": 206,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0264",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 77.3,
+    "TotalUsage_GB": 247,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0265",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 72.1,
+    "TotalUsage_GB": 39,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0266",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 92.75,
+    "TotalUsage_GB": 449,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0267",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 40.18,
+    "TotalUsage_GB": 97,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0268",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 43.65,
+    "TotalUsage_GB": 442,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0269",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 132.03,
+    "TotalUsage_GB": 451,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0270",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 143.0,
+    "TotalUsage_GB": 211,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0271",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 68.53,
+    "TotalUsage_GB": 357,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0272",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 55.2,
+    "TotalUsage_GB": 395,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0273",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 103.72,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0274",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 73.14,
+    "TotalUsage_GB": 309,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0275",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 23.3,
+    "TotalUsage_GB": 354,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0276",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 40.3,
+    "TotalUsage_GB": 217,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0277",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 113.08,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0278",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 105.66,
+    "TotalUsage_GB": 446,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0279",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 23.52,
+    "TotalUsage_GB": 449,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0280",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 48.86,
+    "TotalUsage_GB": 28,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0281",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 50.04,
+    "TotalUsage_GB": 408,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0282",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 107.35,
+    "TotalUsage_GB": 297,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0283",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 22.56,
+    "TotalUsage_GB": 8,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0284",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 33.53,
+    "TotalUsage_GB": 224,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0285",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 123.99,
+    "TotalUsage_GB": 368,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0286",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 43.21,
+    "TotalUsage_GB": 386,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0287",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 104.86,
+    "TotalUsage_GB": 24,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0288",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 50.96,
+    "TotalUsage_GB": 448,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0289",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 32.93,
+    "TotalUsage_GB": 156,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0290",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 51.61,
+    "TotalUsage_GB": 54,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0291",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 113.89,
+    "TotalUsage_GB": 181,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0292",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 131.24,
+    "TotalUsage_GB": 439,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0293",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 127.93,
+    "TotalUsage_GB": 100,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0294",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 71.63,
+    "TotalUsage_GB": 109,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0295",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 106.85,
+    "TotalUsage_GB": 424,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0296",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 46.65,
+    "TotalUsage_GB": 254,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0297",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 58.11,
+    "TotalUsage_GB": 121,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0298",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 136.52,
+    "TotalUsage_GB": 358,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0299",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 21.69,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0300",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 31.12,
+    "TotalUsage_GB": 70,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0301",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 47.03,
+    "TotalUsage_GB": 339,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0302",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 23.45,
+    "TotalUsage_GB": 422,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0303",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 43.59,
+    "TotalUsage_GB": 424,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0304",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 95.8,
+    "TotalUsage_GB": 266,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0305",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 74.79,
+    "TotalUsage_GB": 299,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0306",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 136.05,
+    "TotalUsage_GB": 430,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0307",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 126.27,
+    "TotalUsage_GB": 247,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0308",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 64.44,
+    "TotalUsage_GB": 375,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0309",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 53.73,
+    "TotalUsage_GB": 190,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0310",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 69.36,
+    "TotalUsage_GB": 250,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0311",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 96.74,
+    "TotalUsage_GB": 129,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0312",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 54.85,
+    "TotalUsage_GB": 272,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0313",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 101.14,
+    "TotalUsage_GB": 135,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0314",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 73.22,
+    "TotalUsage_GB": 241,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0315",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 91.77,
+    "TotalUsage_GB": 22,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0316",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 76.7,
+    "TotalUsage_GB": 44,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0317",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 58.28,
+    "TotalUsage_GB": 25,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0318",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 143.3,
+    "TotalUsage_GB": 403,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0319",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 119.27,
+    "TotalUsage_GB": 229,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0320",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 38.21,
+    "TotalUsage_GB": 359,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0321",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 132.9,
+    "TotalUsage_GB": 286,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0322",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 83.37,
+    "TotalUsage_GB": 12,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0323",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 136.29,
+    "TotalUsage_GB": 104,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0324",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 123.98,
+    "TotalUsage_GB": 244,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0325",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 75.28,
+    "TotalUsage_GB": 482,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0326",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 22.92,
+    "TotalUsage_GB": 91,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0327",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 54.93,
+    "TotalUsage_GB": 302,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0328",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 90.41,
+    "TotalUsage_GB": 432,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0329",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 102.35,
+    "TotalUsage_GB": 18,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0330",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 53.53,
+    "TotalUsage_GB": 338,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0331",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 38.12,
+    "TotalUsage_GB": 6,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0332",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 128.54,
+    "TotalUsage_GB": 379,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0333",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 147.97,
+    "TotalUsage_GB": 297,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0334",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 88.34,
+    "TotalUsage_GB": 329,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0335",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 42.32,
+    "TotalUsage_GB": 426,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0336",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 55.4,
+    "TotalUsage_GB": 497,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0337",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 22.39,
+    "TotalUsage_GB": 45,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0338",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 138.86,
+    "TotalUsage_GB": 322,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0339",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 35.31,
+    "TotalUsage_GB": 320,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0340",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 94.95,
+    "TotalUsage_GB": 385,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0341",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 55.63,
+    "TotalUsage_GB": 115,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0342",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 92.04,
+    "TotalUsage_GB": 18,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0343",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 104.68,
+    "TotalUsage_GB": 235,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0344",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 127.87,
+    "TotalUsage_GB": 477,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0345",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 46.83,
+    "TotalUsage_GB": 88,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0346",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 21.43,
+    "TotalUsage_GB": 134,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0347",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 37.8,
+    "TotalUsage_GB": 235,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0348",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 137.0,
+    "TotalUsage_GB": 330,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0349",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 133.61,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0350",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 97.66,
+    "TotalUsage_GB": 383,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0351",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 98.07,
+    "TotalUsage_GB": 349,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0352",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 106.45,
+    "TotalUsage_GB": 32,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0353",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 42.8,
+    "TotalUsage_GB": 70,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0354",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 138.87,
+    "TotalUsage_GB": 167,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0355",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 74.44,
+    "TotalUsage_GB": 233,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0356",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 69.81,
+    "TotalUsage_GB": 265,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0357",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 87.46,
+    "TotalUsage_GB": 453,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0358",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 26.11,
+    "TotalUsage_GB": 428,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0359",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 41.62,
+    "TotalUsage_GB": 464,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0360",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 115.94,
+    "TotalUsage_GB": 444,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0361",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 30.76,
+    "TotalUsage_GB": 168,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0362",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 98.41,
+    "TotalUsage_GB": 305,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0363",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 51.9,
+    "TotalUsage_GB": 411,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0364",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 70.61,
+    "TotalUsage_GB": 307,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0365",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 57.53,
+    "TotalUsage_GB": 291,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0366",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 66.24,
+    "TotalUsage_GB": 399,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0367",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 113.48,
+    "TotalUsage_GB": 14,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0368",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 58.63,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0369",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 93.63,
+    "TotalUsage_GB": 122,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0370",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 81.89,
+    "TotalUsage_GB": 274,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0371",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 106.28,
+    "TotalUsage_GB": 84,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0372",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 141.79,
+    "TotalUsage_GB": 462,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0373",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 115.23,
+    "TotalUsage_GB": 97,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0374",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 47.94,
+    "TotalUsage_GB": 270,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0375",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 24.05,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0376",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 54.09,
+    "TotalUsage_GB": 354,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0377",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 97.36,
+    "TotalUsage_GB": 365,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0378",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 26.69,
+    "TotalUsage_GB": 261,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0379",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 84.53,
+    "TotalUsage_GB": 137,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0380",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 97.59,
+    "TotalUsage_GB": 280,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0381",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 63.45,
+    "TotalUsage_GB": 268,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0382",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 120.22,
+    "TotalUsage_GB": 175,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0383",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 33.86,
+    "TotalUsage_GB": 464,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0384",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 29.77,
+    "TotalUsage_GB": 5,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0385",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 114.66,
+    "TotalUsage_GB": 317,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0386",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 84.41,
+    "TotalUsage_GB": 68,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0387",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 109.49,
+    "TotalUsage_GB": 378,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0388",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 76.53,
+    "TotalUsage_GB": 472,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0389",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 52.03,
+    "TotalUsage_GB": 288,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0390",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 126.48,
+    "TotalUsage_GB": 125,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0391",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 123.92,
+    "TotalUsage_GB": 111,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0392",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 110.31,
+    "TotalUsage_GB": 425,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0393",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 55.38,
+    "TotalUsage_GB": 179,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0394",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 96.73,
+    "TotalUsage_GB": 489,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0395",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 66.93,
+    "TotalUsage_GB": 208,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0396",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 31.91,
+    "TotalUsage_GB": 169,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0397",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 139.25,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0398",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 37.79,
+    "TotalUsage_GB": 124,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0399",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 143.53,
+    "TotalUsage_GB": 48,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0400",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 77.98,
+    "TotalUsage_GB": 316,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0401",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 44.07,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0402",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 90.45,
+    "TotalUsage_GB": 371,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0403",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 133.48,
+    "TotalUsage_GB": 211,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0404",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 115.19,
+    "TotalUsage_GB": 394,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0405",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 124.85,
+    "TotalUsage_GB": 112,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0406",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 105.64,
+    "TotalUsage_GB": 255,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0407",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 110.0,
+    "TotalUsage_GB": 449,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0408",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 130.4,
+    "TotalUsage_GB": 408,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0409",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 52.46,
+    "TotalUsage_GB": 374,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0410",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 83.63,
+    "TotalUsage_GB": 338,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0411",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 48.76,
+    "TotalUsage_GB": 134,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0412",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 148.4,
+    "TotalUsage_GB": 461,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0413",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 142.73,
+    "TotalUsage_GB": 297,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0414",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 25.13,
+    "TotalUsage_GB": 24,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0415",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 111.72,
+    "TotalUsage_GB": 286,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0416",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 140.28,
+    "TotalUsage_GB": 289,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0417",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 43.47,
+    "TotalUsage_GB": 5,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0418",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 93.83,
+    "TotalUsage_GB": 123,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0419",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 139.01,
+    "TotalUsage_GB": 39,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0420",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 24.41,
+    "TotalUsage_GB": 202,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0421",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 110.66,
+    "TotalUsage_GB": 489,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0422",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 58.66,
+    "TotalUsage_GB": 249,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0423",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 140.17,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0424",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 146.24,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0425",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 142.75,
+    "TotalUsage_GB": 165,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0426",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 81.65,
+    "TotalUsage_GB": 183,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0427",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 132.07,
+    "TotalUsage_GB": 210,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0428",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 129.79,
+    "TotalUsage_GB": 16,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0429",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 61.48,
+    "TotalUsage_GB": 494,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0430",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 127.76,
+    "TotalUsage_GB": 280,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0431",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 24.81,
+    "TotalUsage_GB": 185,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0432",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 97.52,
+    "TotalUsage_GB": 246,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0433",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 49.9,
+    "TotalUsage_GB": 220,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0434",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 35.67,
+    "TotalUsage_GB": 255,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0435",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 30.0,
+    "TotalUsage_GB": 303,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0436",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 110.52,
+    "TotalUsage_GB": 130,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0437",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 64.18,
+    "TotalUsage_GB": 486,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0438",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 114.22,
+    "TotalUsage_GB": 221,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0439",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 28.5,
+    "TotalUsage_GB": 310,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0440",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 60.99,
+    "TotalUsage_GB": 289,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0441",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 90.13,
+    "TotalUsage_GB": 189,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0442",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 122.79,
+    "TotalUsage_GB": 43,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0443",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 61.44,
+    "TotalUsage_GB": 227,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0444",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 101.37,
+    "TotalUsage_GB": 188,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0445",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 135.18,
+    "TotalUsage_GB": 499,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0446",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 100.06,
+    "TotalUsage_GB": 431,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0447",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 50.28,
+    "TotalUsage_GB": 182,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0448",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 23.17,
+    "TotalUsage_GB": 411,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0449",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 133.11,
+    "TotalUsage_GB": 432,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0450",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 22.77,
+    "TotalUsage_GB": 298,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0451",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 133.71,
+    "TotalUsage_GB": 344,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0452",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 88.76,
+    "TotalUsage_GB": 155,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0453",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 142.08,
+    "TotalUsage_GB": 388,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0454",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 123.84,
+    "TotalUsage_GB": 130,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0455",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 149.73,
+    "TotalUsage_GB": 305,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0456",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 65.59,
+    "TotalUsage_GB": 312,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0457",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 119.73,
+    "TotalUsage_GB": 340,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0458",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 72.25,
+    "TotalUsage_GB": 438,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0459",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 82.38,
+    "TotalUsage_GB": 238,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0460",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 101.58,
+    "TotalUsage_GB": 384,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0461",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 133.58,
+    "TotalUsage_GB": 379,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0462",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 147.93,
+    "TotalUsage_GB": 12,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0463",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 119.88,
+    "TotalUsage_GB": 345,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0464",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 74.31,
+    "TotalUsage_GB": 133,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0465",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 74.78,
+    "TotalUsage_GB": 268,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0466",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 115.89,
+    "TotalUsage_GB": 161,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0467",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 51.04,
+    "TotalUsage_GB": 356,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0468",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 34.36,
+    "TotalUsage_GB": 362,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0469",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 66.1,
+    "TotalUsage_GB": 9,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0470",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 57.34,
+    "TotalUsage_GB": 499,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0471",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 58.52,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0472",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 50.37,
+    "TotalUsage_GB": 179,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0473",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 25.47,
+    "TotalUsage_GB": 294,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0474",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 22.32,
+    "TotalUsage_GB": 197,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0475",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 148.4,
+    "TotalUsage_GB": 315,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0476",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 75.61,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0477",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 69.96,
+    "TotalUsage_GB": 222,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0478",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 108.35,
+    "TotalUsage_GB": 431,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0479",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 48.37,
+    "TotalUsage_GB": 462,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0480",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 143.49,
+    "TotalUsage_GB": 418,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0481",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 122.22,
+    "TotalUsage_GB": 118,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0482",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 31.62,
+    "TotalUsage_GB": 470,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0483",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 74.29,
+    "TotalUsage_GB": 149,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0484",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 134.29,
+    "TotalUsage_GB": 30,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0485",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 142.82,
+    "TotalUsage_GB": 140,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0486",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 80.76,
+    "TotalUsage_GB": 307,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0487",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 99.74,
+    "TotalUsage_GB": 236,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0488",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 41.71,
+    "TotalUsage_GB": 373,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0489",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 148.85,
+    "TotalUsage_GB": 80,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0490",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 50.12,
+    "TotalUsage_GB": 479,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0491",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 142.56,
+    "TotalUsage_GB": 332,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0492",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 104.45,
+    "TotalUsage_GB": 349,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0493",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 99.01,
+    "TotalUsage_GB": 306,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0494",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 86.65,
+    "TotalUsage_GB": 456,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0495",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 49.99,
+    "TotalUsage_GB": 293,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0496",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 42.95,
+    "TotalUsage_GB": 5,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0497",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 48.66,
+    "TotalUsage_GB": 151,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0498",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 44.24,
+    "TotalUsage_GB": 291,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0499",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 121.35,
+    "TotalUsage_GB": 468,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0500",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 65.52,
+    "TotalUsage_GB": 146,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0501",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 27.52,
+    "TotalUsage_GB": 57,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0502",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 145.98,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0503",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 134.89,
+    "TotalUsage_GB": 73,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0504",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 140.61,
+    "TotalUsage_GB": 365,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0505",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 149.34,
+    "TotalUsage_GB": 94,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0506",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 42.61,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0507",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 71.51,
+    "TotalUsage_GB": 224,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0508",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 118.57,
+    "TotalUsage_GB": 454,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0509",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 110.48,
+    "TotalUsage_GB": 196,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0510",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 40.01,
+    "TotalUsage_GB": 458,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0511",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 126.06,
+    "TotalUsage_GB": 67,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0512",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 49.18,
+    "TotalUsage_GB": 77,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0513",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 49.1,
+    "TotalUsage_GB": 165,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0514",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 89.81,
+    "TotalUsage_GB": 173,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0515",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 97.08,
+    "TotalUsage_GB": 93,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0516",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 95.41,
+    "TotalUsage_GB": 180,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0517",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 31.89,
+    "TotalUsage_GB": 273,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0518",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 134.07,
+    "TotalUsage_GB": 77,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0519",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 54.53,
+    "TotalUsage_GB": 249,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0520",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 36.84,
+    "TotalUsage_GB": 81,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0521",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 135.54,
+    "TotalUsage_GB": 163,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0522",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 144.23,
+    "TotalUsage_GB": 493,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0523",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 132.08,
+    "TotalUsage_GB": 463,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0524",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 125.24,
+    "TotalUsage_GB": 328,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0525",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 105.18,
+    "TotalUsage_GB": 102,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0526",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 91.61,
+    "TotalUsage_GB": 385,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0527",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 31.31,
+    "TotalUsage_GB": 106,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0528",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 73.1,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0529",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 68.45,
+    "TotalUsage_GB": 136,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0530",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 53.77,
+    "TotalUsage_GB": 106,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0531",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 114.04,
+    "TotalUsage_GB": 23,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0532",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 84.46,
+    "TotalUsage_GB": 458,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0533",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 30.54,
+    "TotalUsage_GB": 486,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0534",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 48.62,
+    "TotalUsage_GB": 86,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0535",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 108.82,
+    "TotalUsage_GB": 401,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0536",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 29.9,
+    "TotalUsage_GB": 493,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0537",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 130.66,
+    "TotalUsage_GB": 283,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0538",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 84.37,
+    "TotalUsage_GB": 343,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0539",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 82.48,
+    "TotalUsage_GB": 369,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0540",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 97.01,
+    "TotalUsage_GB": 335,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0541",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 127.21,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0542",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 65.22,
+    "TotalUsage_GB": 348,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0543",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 108.14,
+    "TotalUsage_GB": 314,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0544",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 93.55,
+    "TotalUsage_GB": 459,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0545",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 54.71,
+    "TotalUsage_GB": 93,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0546",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 134.22,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0547",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 123.67,
+    "TotalUsage_GB": 147,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0548",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 105.6,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0549",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 130.58,
+    "TotalUsage_GB": 80,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0550",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 132.75,
+    "TotalUsage_GB": 203,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0551",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 112.09,
+    "TotalUsage_GB": 147,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0552",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 128.81,
+    "TotalUsage_GB": 409,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0553",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 110.67,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0554",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 108.42,
+    "TotalUsage_GB": 320,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0555",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 100.42,
+    "TotalUsage_GB": 97,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0556",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 117.85,
+    "TotalUsage_GB": 477,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0557",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 40.62,
+    "TotalUsage_GB": 421,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0558",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 134.51,
+    "TotalUsage_GB": 309,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0559",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 133.34,
+    "TotalUsage_GB": 228,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0560",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 23.8,
+    "TotalUsage_GB": 295,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0561",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 127.36,
+    "TotalUsage_GB": 432,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0562",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 36.75,
+    "TotalUsage_GB": 106,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0563",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 63.57,
+    "TotalUsage_GB": 478,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0564",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 116.66,
+    "TotalUsage_GB": 271,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0565",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 40.9,
+    "TotalUsage_GB": 359,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0566",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 126.34,
+    "TotalUsage_GB": 460,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0567",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 128.18,
+    "TotalUsage_GB": 114,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0568",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 85.97,
+    "TotalUsage_GB": 466,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0569",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 20.83,
+    "TotalUsage_GB": 334,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0570",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 57.31,
+    "TotalUsage_GB": 454,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0571",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 100.2,
+    "TotalUsage_GB": 434,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0572",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 147.55,
+    "TotalUsage_GB": 269,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0573",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 102.14,
+    "TotalUsage_GB": 7,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0574",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 53.77,
+    "TotalUsage_GB": 89,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0575",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 102.42,
+    "TotalUsage_GB": 286,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0576",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 90.2,
+    "TotalUsage_GB": 332,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0577",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 121.38,
+    "TotalUsage_GB": 308,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0578",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 33.91,
+    "TotalUsage_GB": 454,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0579",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 118.93,
+    "TotalUsage_GB": 458,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0580",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 90.36,
+    "TotalUsage_GB": 416,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0581",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 145.19,
+    "TotalUsage_GB": 121,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0582",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 64.44,
+    "TotalUsage_GB": 225,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0583",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 102.24,
+    "TotalUsage_GB": 158,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0584",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 141.16,
+    "TotalUsage_GB": 157,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0585",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 33.33,
+    "TotalUsage_GB": 16,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0586",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 141.84,
+    "TotalUsage_GB": 137,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0587",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 109.43,
+    "TotalUsage_GB": 486,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0588",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 28.82,
+    "TotalUsage_GB": 308,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0589",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 59.13,
+    "TotalUsage_GB": 297,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0590",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 112.06,
+    "TotalUsage_GB": 467,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionC",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0591",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 28.76,
+    "TotalUsage_GB": 304,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0592",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 95.68,
+    "TotalUsage_GB": 232,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0593",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 64.96,
+    "TotalUsage_GB": 275,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0594",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 100.72,
+    "TotalUsage_GB": 47,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0595",
+    "SubscriptionType": "Premium",
+    "MonthlyCharges_USD": 25.95,
+    "TotalUsage_GB": 436,
+    "ContractDuration_Months": 6,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0596",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 133.3,
+    "TotalUsage_GB": null,
+    "ContractDuration_Months": 24,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0597",
+    "SubscriptionType": "Standard",
+    "MonthlyCharges_USD": 146.55,
+    "TotalUsage_GB": 330,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 1
+  },
+  {
+    "CustomerID": "C0598",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 145.95,
+    "TotalUsage_GB": 306,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0599",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 117.45,
+    "TotalUsage_GB": 368,
+    "ContractDuration_Months": 12,
+    "ServiceRegion": "RegionB",
+    "IsNewCustomer": true,
+    "Churn": 0
+  },
+  {
+    "CustomerID": "C0600",
+    "SubscriptionType": "Basic",
+    "MonthlyCharges_USD": 36.91,
+    "TotalUsage_GB": 383,
+    "ContractDuration_Months": 1,
+    "ServiceRegion": "RegionA",
+    "IsNewCustomer": false,
+    "Churn": 0
+  }
+]

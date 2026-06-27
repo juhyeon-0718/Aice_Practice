@@ -1,0 +1,702 @@
+[
+  {
+    "StudentID": 1,
+    "MidtermScore": 55,
+    "QuizAverage": 85,
+    "ProjectScore": 98,
+    "FinalScore": 94
+  },
+  {
+    "StudentID": 2,
+    "MidtermScore": 55,
+    "QuizAverage": 96,
+    "ProjectScore": 97,
+    "FinalScore": 71
+  },
+  {
+    "StudentID": 3,
+    "MidtermScore": 70,
+    "QuizAverage": 65,
+    "ProjectScore": 70,
+    "FinalScore": 97
+  },
+  {
+    "StudentID": 4,
+    "MidtermScore": 53,
+    "QuizAverage": 89,
+    "ProjectScore": 75,
+    "FinalScore": 79
+  },
+  {
+    "StudentID": 5,
+    "MidtermScore": 80,
+    "QuizAverage": 83,
+    "ProjectScore": 73,
+    "FinalScore": 52
+  },
+  {
+    "StudentID": null,
+    "MidtermScore": 80,
+    "QuizAverage": 99,
+    "ProjectScore": 88,
+    "FinalScore": 80
+  },
+  {
+    "StudentID": 7,
+    "MidtermScore": 55,
+    "QuizAverage": 61,
+    "ProjectScore": 84,
+    "FinalScore": 77
+  },
+  {
+    "StudentID": 8,
+    "MidtermScore": 60,
+    "QuizAverage": 63,
+    "ProjectScore": 79,
+    "FinalScore": 55
+  },
+  {
+    "StudentID": 9,
+    "MidtermScore": 98,
+    "QuizAverage": 89,
+    "ProjectScore": 66,
+    "FinalScore": 64
+  },
+  {
+    "StudentID": 10,
+    "MidtermScore": 60,
+    "QuizAverage": 67,
+    "ProjectScore": 90,
+    "FinalScore": 94
+  },
+  {
+    "StudentID": 11,
+    "MidtermScore": 93,
+    "QuizAverage": 64,
+    "ProjectScore": 70,
+    "FinalScore": 75
+  },
+  {
+    "StudentID": 12,
+    "MidtermScore": 53,
+    "QuizAverage": 78,
+    "ProjectScore": 84,
+    "FinalScore": 82
+  },
+  {
+    "StudentID": 13,
+    "MidtermScore": 69,
+    "QuizAverage": 71,
+    "ProjectScore": 65,
+    "FinalScore": 75
+  },
+  {
+    "StudentID": 14,
+    "MidtermScore": 63,
+    "QuizAverage": 97,
+    "ProjectScore": 75,
+    "FinalScore": 85
+  },
+  {
+    "StudentID": 15,
+    "MidtermScore": 62,
+    "QuizAverage": 62,
+    "ProjectScore": 97,
+    "FinalScore": 55
+  },
+  {
+    "StudentID": 16,
+    "MidtermScore": 99,
+    "QuizAverage": 69,
+    "ProjectScore": 69,
+    "FinalScore": 72
+  },
+  {
+    "StudentID": 17,
+    "MidtermScore": 59,
+    "QuizAverage": 61,
+    "ProjectScore": 77,
+    "FinalScore": 89
+  },
+  {
+    "StudentID": 18,
+    "MidtermScore": 51,
+    "QuizAverage": 79,
+    "ProjectScore": 65,
+    "FinalScore": 86
+  },
+  {
+    "StudentID": 19,
+    "MidtermScore": 58,
+    "QuizAverage": 76,
+    "ProjectScore": 73,
+    "FinalScore": 60
+  },
+  {
+    "StudentID": 20,
+    "MidtermScore": 64,
+    "QuizAverage": 83,
+    "ProjectScore": 99,
+    "FinalScore": 79
+  },
+  {
+    "StudentID": 21,
+    "MidtermScore": 80,
+    "QuizAverage": 64,
+    "ProjectScore": 78,
+    "FinalScore": 60
+  },
+  {
+    "StudentID": 22,
+    "MidtermScore": 58,
+    "QuizAverage": 93,
+    "ProjectScore": 76,
+    "FinalScore": 84
+  },
+  {
+    "StudentID": 23,
+    "MidtermScore": 84,
+    "QuizAverage": 60,
+    "ProjectScore": 86,
+    "FinalScore": 78
+  },
+  {
+    "StudentID": null,
+    "MidtermScore": 57,
+    "QuizAverage": 70,
+    "ProjectScore": 78,
+    "FinalScore": 79
+  },
+  {
+    "StudentID": 25,
+    "MidtermScore": 84,
+    "QuizAverage": 80,
+    "ProjectScore": 69,
+    "FinalScore": 68
+  },
+  {
+    "StudentID": 26,
+    "MidtermScore": 63,
+    "QuizAverage": 85,
+    "ProjectScore": 68,
+    "FinalScore": 74
+  },
+  {
+    "StudentID": 27,
+    "MidtermScore": 94,
+    "QuizAverage": 84,
+    "ProjectScore": 82,
+    "FinalScore": 89
+  },
+  {
+    "StudentID": 28,
+    "MidtermScore": 57,
+    "QuizAverage": 98,
+    "ProjectScore": 78,
+    "FinalScore": 81
+  },
+  {
+    "StudentID": 29,
+    "MidtermScore": 87,
+    "QuizAverage": 92,
+    "ProjectScore": 87,
+    "FinalScore": 64
+  },
+  {
+    "StudentID": 30,
+    "MidtermScore": 82,
+    "QuizAverage": 84,
+    "ProjectScore": 81,
+    "FinalScore": 82
+  },
+  {
+    "StudentID": 31,
+    "MidtermScore": 96,
+    "QuizAverage": 61,
+    "ProjectScore": 78,
+    "FinalScore": 89
+  },
+  {
+    "StudentID": 32,
+    "MidtermScore": 89,
+    "QuizAverage": 98,
+    "ProjectScore": 70,
+    "FinalScore": 55
+  },
+  {
+    "StudentID": 33,
+    "MidtermScore": 52,
+    "QuizAverage": 66,
+    "ProjectScore": 72,
+    "FinalScore": 91
+  },
+  {
+    "StudentID": 34,
+    "MidtermScore": 64,
+    "QuizAverage": 88,
+    "ProjectScore": 97,
+    "FinalScore": 79
+  },
+  {
+    "StudentID": 35,
+    "MidtermScore": 88,
+    "QuizAverage": 86,
+    "ProjectScore": 93,
+    "FinalScore": 87
+  },
+  {
+    "StudentID": 36,
+    "MidtermScore": 82,
+    "QuizAverage": 96,
+    "ProjectScore": 91,
+    "FinalScore": 82
+  },
+  {
+    "StudentID": 37,
+    "MidtermScore": 53,
+    "QuizAverage": 81,
+    "ProjectScore": 66,
+    "FinalScore": 59
+  },
+  {
+    "StudentID": 38,
+    "MidtermScore": 54,
+    "QuizAverage": 69,
+    "ProjectScore": 97,
+    "FinalScore": 87
+  },
+  {
+    "StudentID": 39,
+    "MidtermScore": 62,
+    "QuizAverage": 90,
+    "ProjectScore": 88,
+    "FinalScore": 64
+  },
+  {
+    "StudentID": 40,
+    "MidtermScore": 78,
+    "QuizAverage": 67,
+    "ProjectScore": 69,
+    "FinalScore": 78
+  },
+  {
+    "StudentID": 41,
+    "MidtermScore": 96,
+    "QuizAverage": 63,
+    "ProjectScore": 76,
+    "FinalScore": 94
+  },
+  {
+    "StudentID": 42,
+    "MidtermScore": 51,
+    "QuizAverage": 86,
+    "ProjectScore": 95,
+    "FinalScore": 85
+  },
+  {
+    "StudentID": 43,
+    "MidtermScore": 85,
+    "QuizAverage": 85,
+    "ProjectScore": 91,
+    "FinalScore": 54
+  },
+  {
+    "StudentID": 44,
+    "MidtermScore": 69,
+    "QuizAverage": 70,
+    "ProjectScore": 74,
+    "FinalScore": 89
+  },
+  {
+    "StudentID": 45,
+    "MidtermScore": 87,
+    "QuizAverage": 65,
+    "ProjectScore": 72,
+    "FinalScore": 72
+  },
+  {
+    "StudentID": 46,
+    "MidtermScore": 96,
+    "QuizAverage": 85,
+    "ProjectScore": 76,
+    "FinalScore": 75
+  },
+  {
+    "StudentID": 47,
+    "MidtermScore": 62,
+    "QuizAverage": 99,
+    "ProjectScore": 82,
+    "FinalScore": 74
+  },
+  {
+    "StudentID": 48,
+    "MidtermScore": 82,
+    "QuizAverage": 99,
+    "ProjectScore": 76,
+    "FinalScore": 93
+  },
+  {
+    "StudentID": 49,
+    "MidtermScore": 85,
+    "QuizAverage": 63,
+    "ProjectScore": 69,
+    "FinalScore": 86
+  },
+  {
+    "StudentID": 50,
+    "MidtermScore": 57,
+    "QuizAverage": 87,
+    "ProjectScore": 95,
+    "FinalScore": 58
+  },
+  {
+    "StudentID": 51,
+    "MidtermScore": 78,
+    "QuizAverage": 73,
+    "ProjectScore": 86,
+    "FinalScore": 60
+  },
+  {
+    "StudentID": 52,
+    "MidtermScore": 72,
+    "QuizAverage": 60,
+    "ProjectScore": 85,
+    "FinalScore": 75
+  },
+  {
+    "StudentID": 53,
+    "MidtermScore": 95,
+    "QuizAverage": 95,
+    "ProjectScore": 87,
+    "FinalScore": 50
+  },
+  {
+    "StudentID": 54,
+    "MidtermScore": 89,
+    "QuizAverage": 74,
+    "ProjectScore": 85,
+    "FinalScore": 96
+  },
+  {
+    "StudentID": 55,
+    "MidtermScore": 58,
+    "QuizAverage": 68,
+    "ProjectScore": 74,
+    "FinalScore": 75
+  },
+  {
+    "StudentID": 56,
+    "MidtermScore": 90,
+    "QuizAverage": 94,
+    "ProjectScore": 89,
+    "FinalScore": 75
+  },
+  {
+    "StudentID": 57,
+    "MidtermScore": 60,
+    "QuizAverage": 97,
+    "ProjectScore": 66,
+    "FinalScore": 56
+  },
+  {
+    "StudentID": 58,
+    "MidtermScore": 67,
+    "QuizAverage": 86,
+    "ProjectScore": 98,
+    "FinalScore": 76
+  },
+  {
+    "StudentID": 59,
+    "MidtermScore": 66,
+    "QuizAverage": 83,
+    "ProjectScore": 89,
+    "FinalScore": 56
+  },
+  {
+    "StudentID": 60,
+    "MidtermScore": 55,
+    "QuizAverage": 83,
+    "ProjectScore": 97,
+    "FinalScore": 98
+  },
+  {
+    "StudentID": 61,
+    "MidtermScore": 78,
+    "QuizAverage": 81,
+    "ProjectScore": 90,
+    "FinalScore": 77
+  },
+  {
+    "StudentID": 62,
+    "MidtermScore": 99,
+    "QuizAverage": 80,
+    "ProjectScore": 71,
+    "FinalScore": 66
+  },
+  {
+    "StudentID": 63,
+    "MidtermScore": 69,
+    "QuizAverage": 79,
+    "ProjectScore": 86,
+    "FinalScore": 77
+  },
+  {
+    "StudentID": 64,
+    "MidtermScore": 89,
+    "QuizAverage": 66,
+    "ProjectScore": 65,
+    "FinalScore": 81
+  },
+  {
+    "StudentID": 65,
+    "MidtermScore": 62,
+    "QuizAverage": 89,
+    "ProjectScore": 87,
+    "FinalScore": 68
+  },
+  {
+    "StudentID": 66,
+    "MidtermScore": 81,
+    "QuizAverage": 89,
+    "ProjectScore": 93,
+    "FinalScore": 98
+  },
+  {
+    "StudentID": 67,
+    "MidtermScore": 94,
+    "QuizAverage": 88,
+    "ProjectScore": 94,
+    "FinalScore": 65
+  },
+  {
+    "StudentID": 68,
+    "MidtermScore": 89,
+    "QuizAverage": 78,
+    "ProjectScore": 82,
+    "FinalScore": 50
+  },
+  {
+    "StudentID": 69,
+    "MidtermScore": 63,
+    "QuizAverage": 61,
+    "ProjectScore": 92,
+    "FinalScore": 98
+  },
+  {
+    "StudentID": 70,
+    "MidtermScore": 99,
+    "QuizAverage": 89,
+    "ProjectScore": 68,
+    "FinalScore": 50
+  },
+  {
+    "StudentID": 71,
+    "MidtermScore": 57,
+    "QuizAverage": 88,
+    "ProjectScore": 67,
+    "FinalScore": 81
+  },
+  {
+    "StudentID": 72,
+    "MidtermScore": 59,
+    "QuizAverage": 69,
+    "ProjectScore": 83,
+    "FinalScore": 95
+  },
+  {
+    "StudentID": 73,
+    "MidtermScore": 83,
+    "QuizAverage": 92,
+    "ProjectScore": 87,
+    "FinalScore": 77
+  },
+  {
+    "StudentID": 74,
+    "MidtermScore": 81,
+    "QuizAverage": 66,
+    "ProjectScore": 93,
+    "FinalScore": 57
+  },
+  {
+    "StudentID": 75,
+    "MidtermScore": 50,
+    "QuizAverage": 62,
+    "ProjectScore": 88,
+    "FinalScore": 72
+  },
+  {
+    "StudentID": 76,
+    "MidtermScore": 57,
+    "QuizAverage": 96,
+    "ProjectScore": 67,
+    "FinalScore": 82
+  },
+  {
+    "StudentID": 77,
+    "MidtermScore": 77,
+    "QuizAverage": 67,
+    "ProjectScore": 98,
+    "FinalScore": 84
+  },
+  {
+    "StudentID": 78,
+    "MidtermScore": 81,
+    "QuizAverage": 83,
+    "ProjectScore": 78,
+    "FinalScore": 81
+  },
+  {
+    "StudentID": 79,
+    "MidtermScore": 95,
+    "QuizAverage": 75,
+    "ProjectScore": 68,
+    "FinalScore": 86
+  },
+  {
+    "StudentID": 80,
+    "MidtermScore": 70,
+    "QuizAverage": 73,
+    "ProjectScore": 95,
+    "FinalScore": 97
+  },
+  {
+    "StudentID": 81,
+    "MidtermScore": 67,
+    "QuizAverage": 66,
+    "ProjectScore": 74,
+    "FinalScore": 56
+  },
+  {
+    "StudentID": 82,
+    "MidtermScore": 82,
+    "QuizAverage": 82,
+    "ProjectScore": 85,
+    "FinalScore": 68
+  },
+  {
+    "StudentID": 83,
+    "MidtermScore": 97,
+    "QuizAverage": 78,
+    "ProjectScore": 93,
+    "FinalScore": 67
+  },
+  {
+    "StudentID": 84,
+    "MidtermScore": 51,
+    "QuizAverage": 60,
+    "ProjectScore": 69,
+    "FinalScore": 69
+  },
+  {
+    "StudentID": 85,
+    "MidtermScore": 60,
+    "QuizAverage": 61,
+    "ProjectScore": 67,
+    "FinalScore": 72
+  },
+  {
+    "StudentID": 86,
+    "MidtermScore": 61,
+    "QuizAverage": 79,
+    "ProjectScore": 69,
+    "FinalScore": 86
+  },
+  {
+    "StudentID": 87,
+    "MidtermScore": 87,
+    "QuizAverage": 89,
+    "ProjectScore": 73,
+    "FinalScore": 83
+  },
+  {
+    "StudentID": 88,
+    "MidtermScore": 93,
+    "QuizAverage": 94,
+    "ProjectScore": 86,
+    "FinalScore": 93
+  },
+  {
+    "StudentID": 89,
+    "MidtermScore": 73,
+    "QuizAverage": 76,
+    "ProjectScore": 74,
+    "FinalScore": 79
+  },
+  {
+    "StudentID": 90,
+    "MidtermScore": 95,
+    "QuizAverage": 82,
+    "ProjectScore": 96,
+    "FinalScore": 66
+  },
+  {
+    "StudentID": 91,
+    "MidtermScore": 99,
+    "QuizAverage": 76,
+    "ProjectScore": 78,
+    "FinalScore": 58
+  },
+  {
+    "StudentID": 92,
+    "MidtermScore": 89,
+    "QuizAverage": 61,
+    "ProjectScore": 89,
+    "FinalScore": 88
+  },
+  {
+    "StudentID": 93,
+    "MidtermScore": 58,
+    "QuizAverage": 81,
+    "ProjectScore": 68,
+    "FinalScore": 75
+  },
+  {
+    "StudentID": 94,
+    "MidtermScore": 78,
+    "QuizAverage": 93,
+    "ProjectScore": 87,
+    "FinalScore": 86
+  },
+  {
+    "StudentID": 95,
+    "MidtermScore": 60,
+    "QuizAverage": 65,
+    "ProjectScore": 82,
+    "FinalScore": 70
+  },
+  {
+    "StudentID": 96,
+    "MidtermScore": 91,
+    "QuizAverage": 95,
+    "ProjectScore": 98,
+    "FinalScore": 66
+  },
+  {
+    "StudentID": 97,
+    "MidtermScore": 86,
+    "QuizAverage": 84,
+    "ProjectScore": 76,
+    "FinalScore": 72
+  },
+  {
+    "StudentID": 98,
+    "MidtermScore": 91,
+    "QuizAverage": 81,
+    "ProjectScore": 85,
+    "FinalScore": 76
+  },
+  {
+    "StudentID": 99,
+    "MidtermScore": 80,
+    "QuizAverage": 65,
+    "ProjectScore": 91,
+    "FinalScore": 89
+  },
+  {
+    "StudentID": 100,
+    "MidtermScore": 83,
+    "QuizAverage": 71,
+    "ProjectScore": 71,
+    "FinalScore": 59
+  }
+]

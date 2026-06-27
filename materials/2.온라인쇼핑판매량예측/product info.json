@@ -1,0 +1,902 @@
+[
+  {
+    "ProductID": 1,
+    "Category": "Clothing",
+    "Price": 880,
+    "Rating": 1.7,
+    "ReviewsCount": 71,
+    "LaunchYear": 2022,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 2,
+    "Category": "Electronics",
+    "Price": 7779,
+    "Rating": 1.4,
+    "ReviewsCount": 458,
+    "LaunchYear": 2022,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 3,
+    "Category": "Electronics",
+    "Price": 230,
+    "Rating": 1.1,
+    "ReviewsCount": 769,
+    "LaunchYear": 2021,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 4,
+    "Category": "Electronics",
+    "Price": 1284,
+    "Rating": 2.2,
+    "ReviewsCount": 21,
+    "LaunchYear": 2022,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 5,
+    "Category": "Electronics",
+    "Price": 574,
+    "Rating": 3.4,
+    "ReviewsCount": 681,
+    "LaunchYear": 2021,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 6,
+    "Category": "Clothing",
+    "Price": 209,
+    "Rating": 1.4,
+    "ReviewsCount": 957,
+    "LaunchYear": 2020,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 7,
+    "Category": "Clothing",
+    "Price": 2899,
+    "Rating": 2.9,
+    "ReviewsCount": 484,
+    "LaunchYear": 2020,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 8,
+    "Category": "Electronics",
+    "Price": 2535,
+    "Rating": 4.8,
+    "ReviewsCount": 13,
+    "LaunchYear": 2019,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 9,
+    "Category": "Clothing",
+    "Price": 2632,
+    "Rating": 1.9,
+    "ReviewsCount": 91,
+    "LaunchYear": 2024,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 10,
+    "Category": "Electronics",
+    "Price": 2656,
+    "Rating": 4.3,
+    "ReviewsCount": 34,
+    "LaunchYear": 2023,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 11,
+    "Category": "Electronics",
+    "Price": 4043,
+    "Rating": 4.0,
+    "ReviewsCount": 389,
+    "LaunchYear": 2023,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 12,
+    "Category": "Clothing",
+    "Price": 1520,
+    "Rating": 4.9,
+    "ReviewsCount": 729,
+    "LaunchYear": 2021,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 13,
+    "Category": "Clothing",
+    "Price": 1015,
+    "Rating": 3.4,
+    "ReviewsCount": 815,
+    "LaunchYear": 2024,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 14,
+    "Category": "Clothing",
+    "Price": 1295,
+    "Rating": 1.2,
+    "ReviewsCount": 295,
+    "LaunchYear": 2022,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 15,
+    "Category": "HomeGoods",
+    "Price": 928,
+    "Rating": 4.3,
+    "ReviewsCount": 921,
+    "LaunchYear": 2018,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 16,
+    "Category": "HomeGoods",
+    "Price": 542,
+    "Rating": 1.6,
+    "ReviewsCount": 14,
+    "LaunchYear": 2022,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 17,
+    "Category": "Electronics",
+    "Price": 2668,
+    "Rating": 4.1,
+    "ReviewsCount": 647,
+    "LaunchYear": 2024,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 18,
+    "Category": "Electronics",
+    "Price": 491,
+    "Rating": 3.9,
+    "ReviewsCount": 288,
+    "LaunchYear": 2020,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 19,
+    "Category": "HomeGoods",
+    "Price": 3115,
+    "Rating": 1.5,
+    "ReviewsCount": 134,
+    "LaunchYear": 2018,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 20,
+    "Category": "Clothing",
+    "Price": 522,
+    "Rating": 2.2,
+    "ReviewsCount": 727,
+    "LaunchYear": 2022,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 21,
+    "Category": "Clothing",
+    "Price": 2793,
+    "Rating": 4.5,
+    "ReviewsCount": 960,
+    "LaunchYear": 2020,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 22,
+    "Category": "Misc",
+    "Price": 652,
+    "Rating": 4.0,
+    "ReviewsCount": 217,
+    "LaunchYear": 2024,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 23,
+    "Category": "Electronics",
+    "Price": 6946,
+    "Rating": 2.7,
+    "ReviewsCount": 553,
+    "LaunchYear": 2021,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 24,
+    "Category": "Electronics",
+    "Price": 963,
+    "Rating": 3.5,
+    "ReviewsCount": 563,
+    "LaunchYear": 2022,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 25,
+    "Category": "HomeGoods",
+    "Price": 2582,
+    "Rating": 2.0,
+    "ReviewsCount": 748,
+    "LaunchYear": 2024,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 26,
+    "Category": "Electronics",
+    "Price": 7508,
+    "Rating": 3.8,
+    "ReviewsCount": 795,
+    "LaunchYear": 2019,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 27,
+    "Category": "HomeGoods",
+    "Price": 3110,
+    "Rating": 4.5,
+    "ReviewsCount": 27,
+    "LaunchYear": 2021,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 28,
+    "Category": "Clothing",
+    "Price": 2001,
+    "Rating": 3.2,
+    "ReviewsCount": 505,
+    "LaunchYear": 2024,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 29,
+    "Category": "Clothing",
+    "Price": 2257,
+    "Rating": 1.4,
+    "ReviewsCount": 376,
+    "LaunchYear": 2020,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 30,
+    "Category": "Electronics",
+    "Price": 1382,
+    "Rating": 1.0,
+    "ReviewsCount": 455,
+    "LaunchYear": 2020,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 31,
+    "Category": "Clothing",
+    "Price": 1277,
+    "Rating": 2.4,
+    "ReviewsCount": 974,
+    "LaunchYear": 2020,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 32,
+    "Category": "Electronics",
+    "Price": 1595,
+    "Rating": 3.8,
+    "ReviewsCount": 112,
+    "LaunchYear": 2023,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 33,
+    "Category": "Electronics",
+    "Price": 1391,
+    "Rating": 2.0,
+    "ReviewsCount": 385,
+    "LaunchYear": 2020,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 34,
+    "Category": "Electronics",
+    "Price": 3099,
+    "Rating": 1.1,
+    "ReviewsCount": 112,
+    "LaunchYear": 2019,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 35,
+    "Category": "Clothing",
+    "Price": 874,
+    "Rating": 2.1,
+    "ReviewsCount": 224,
+    "LaunchYear": 2018,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 36,
+    "Category": "HomeGoods",
+    "Price": 1126,
+    "Rating": 3.0,
+    "ReviewsCount": 671,
+    "LaunchYear": 2023,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 37,
+    "Category": "Clothing",
+    "Price": 222,
+    "Rating": 2.5,
+    "ReviewsCount": 400,
+    "LaunchYear": 2024,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 38,
+    "Category": "Clothing",
+    "Price": 2951,
+    "Rating": 4.9,
+    "ReviewsCount": 981,
+    "LaunchYear": 2020,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 39,
+    "Category": "Electronics",
+    "Price": 708,
+    "Rating": 1.6,
+    "ReviewsCount": 186,
+    "LaunchYear": 2023,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 40,
+    "Category": "Electronics",
+    "Price": 759,
+    "Rating": 2.3,
+    "ReviewsCount": 931,
+    "LaunchYear": 2020,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 41,
+    "Category": "Clothing",
+    "Price": 166,
+    "Rating": 2.4,
+    "ReviewsCount": 710,
+    "LaunchYear": 2021,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 42,
+    "Category": "HomeGoods",
+    "Price": 1713,
+    "Rating": 3.1,
+    "ReviewsCount": 871,
+    "LaunchYear": 2018,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 43,
+    "Category": "Clothing",
+    "Price": 2540,
+    "Rating": 1.8,
+    "ReviewsCount": 414,
+    "LaunchYear": 2023,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 44,
+    "Category": "Electronics",
+    "Price": 723,
+    "Rating": 3.2,
+    "ReviewsCount": 571,
+    "LaunchYear": 2018,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 45,
+    "Category": "Misc",
+    "Price": 263,
+    "Rating": 4.6,
+    "ReviewsCount": 36,
+    "LaunchYear": 2020,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 46,
+    "Category": "Clothing",
+    "Price": 1702,
+    "Rating": 3.9,
+    "ReviewsCount": 130,
+    "LaunchYear": 2021,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 47,
+    "Category": "Clothing",
+    "Price": 6224,
+    "Rating": 3.6,
+    "ReviewsCount": 586,
+    "LaunchYear": 2018,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 48,
+    "Category": "HomeGoods",
+    "Price": 153,
+    "Rating": 3.4,
+    "ReviewsCount": 226,
+    "LaunchYear": 2023,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 49,
+    "Category": "HomeGoods",
+    "Price": 1934,
+    "Rating": 2.1,
+    "ReviewsCount": 877,
+    "LaunchYear": 2019,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 50,
+    "Category": "HomeGoods",
+    "Price": 3841,
+    "Rating": 5.0,
+    "ReviewsCount": 995,
+    "LaunchYear": 2018,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 51,
+    "Category": "Electronics",
+    "Price": 1400,
+    "Rating": 1.7,
+    "ReviewsCount": 503,
+    "LaunchYear": 2024,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 52,
+    "Category": "HomeGoods",
+    "Price": 3154,
+    "Rating": 3.2,
+    "ReviewsCount": 954,
+    "LaunchYear": 2020,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 53,
+    "Category": "Electronics",
+    "Price": 1793,
+    "Rating": 4.9,
+    "ReviewsCount": 364,
+    "LaunchYear": 2020,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 54,
+    "Category": "HomeGoods",
+    "Price": 2124,
+    "Rating": 4.2,
+    "ReviewsCount": 797,
+    "LaunchYear": 2018,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 55,
+    "Category": "HomeGoods",
+    "Price": 1554,
+    "Rating": 1.8,
+    "ReviewsCount": 828,
+    "LaunchYear": 2020,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 56,
+    "Category": "Electronics",
+    "Price": 3220,
+    "Rating": 1.2,
+    "ReviewsCount": 171,
+    "LaunchYear": 2021,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 57,
+    "Category": "Misc",
+    "Price": 1406,
+    "Rating": 4.5,
+    "ReviewsCount": 891,
+    "LaunchYear": 2018,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 58,
+    "Category": "HomeGoods",
+    "Price": 2594,
+    "Rating": 3.2,
+    "ReviewsCount": 606,
+    "LaunchYear": 2020,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 59,
+    "Category": "HomeGoods",
+    "Price": 5739,
+    "Rating": 2.2,
+    "ReviewsCount": 927,
+    "LaunchYear": 2024,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 60,
+    "Category": "Clothing",
+    "Price": 147,
+    "Rating": 2.5,
+    "ReviewsCount": 734,
+    "LaunchYear": 2023,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 61,
+    "Category": "HomeGoods",
+    "Price": 2783,
+    "Rating": 1.4,
+    "ReviewsCount": 287,
+    "LaunchYear": 2024,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 62,
+    "Category": "Clothing",
+    "Price": 174,
+    "Rating": 2.2,
+    "ReviewsCount": 985,
+    "LaunchYear": 2018,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 63,
+    "Category": "HomeGoods",
+    "Price": 3932,
+    "Rating": 3.8,
+    "ReviewsCount": 38,
+    "LaunchYear": 2022,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 64,
+    "Category": "HomeGoods",
+    "Price": 1940,
+    "Rating": 2.0,
+    "ReviewsCount": 407,
+    "LaunchYear": 2022,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 65,
+    "Category": "Clothing",
+    "Price": 55,
+    "Rating": 4.2,
+    "ReviewsCount": 320,
+    "LaunchYear": 2023,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 66,
+    "Category": "Electronics",
+    "Price": 1266,
+    "Rating": 2.5,
+    "ReviewsCount": 833,
+    "LaunchYear": 2024,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 67,
+    "Category": "Electronics",
+    "Price": 3836,
+    "Rating": 1.6,
+    "ReviewsCount": 189,
+    "LaunchYear": 2022,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 68,
+    "Category": "Clothing",
+    "Price": 2372,
+    "Rating": 1.1,
+    "ReviewsCount": 837,
+    "LaunchYear": 2024,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 69,
+    "Category": "Clothing",
+    "Price": 2680,
+    "Rating": 3.1,
+    "ReviewsCount": 52,
+    "LaunchYear": 2021,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 70,
+    "Category": "Misc",
+    "Price": 1136,
+    "Rating": 1.3,
+    "ReviewsCount": 876,
+    "LaunchYear": 2021,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 71,
+    "Category": "Clothing",
+    "Price": 2890,
+    "Rating": 1.6,
+    "ReviewsCount": 655,
+    "LaunchYear": 2022,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 72,
+    "Category": "Clothing",
+    "Price": 1713,
+    "Rating": 1.2,
+    "ReviewsCount": 119,
+    "LaunchYear": 2024,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 73,
+    "Category": "Clothing",
+    "Price": 1994,
+    "Rating": 2.0,
+    "ReviewsCount": 473,
+    "LaunchYear": 2022,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 74,
+    "Category": "HomeGoods",
+    "Price": 3514,
+    "Rating": 3.8,
+    "ReviewsCount": 640,
+    "LaunchYear": 2019,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 75,
+    "Category": "Electronics",
+    "Price": 2949,
+    "Rating": 2.0,
+    "ReviewsCount": 117,
+    "LaunchYear": 2018,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 76,
+    "Category": "HomeGoods",
+    "Price": 946,
+    "Rating": 4.8,
+    "ReviewsCount": 998,
+    "LaunchYear": 2024,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 77,
+    "Category": "HomeGoods",
+    "Price": 2344,
+    "Rating": 1.2,
+    "ReviewsCount": 153,
+    "LaunchYear": 2020,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 78,
+    "Category": "Electronics",
+    "Price": 3456,
+    "Rating": 1.5,
+    "ReviewsCount": 68,
+    "LaunchYear": 2024,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 79,
+    "Category": "Clothing",
+    "Price": 977,
+    "Rating": 3.8,
+    "ReviewsCount": 203,
+    "LaunchYear": 2019,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 80,
+    "Category": "Clothing",
+    "Price": 570,
+    "Rating": 2.4,
+    "ReviewsCount": 253,
+    "LaunchYear": 2023,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 81,
+    "Category": "Clothing",
+    "Price": 2589,
+    "Rating": 4.8,
+    "ReviewsCount": 99,
+    "LaunchYear": 2019,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 82,
+    "Category": "Clothing",
+    "Price": 2829,
+    "Rating": 4.7,
+    "ReviewsCount": 607,
+    "LaunchYear": 2018,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 83,
+    "Category": "HomeGoods",
+    "Price": 565,
+    "Rating": 3.5,
+    "ReviewsCount": 335,
+    "LaunchYear": 2024,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 84,
+    "Category": "Electronics",
+    "Price": 7549,
+    "Rating": 3.5,
+    "ReviewsCount": 851,
+    "LaunchYear": 2021,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 85,
+    "Category": "Clothing",
+    "Price": 1588,
+    "Rating": 2.8,
+    "ReviewsCount": 690,
+    "LaunchYear": 2020,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 86,
+    "Category": "HomeGoods",
+    "Price": 3698,
+    "Rating": 4.8,
+    "ReviewsCount": 841,
+    "LaunchYear": 2020,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 87,
+    "Category": "Electronics",
+    "Price": 4207,
+    "Rating": 1.4,
+    "ReviewsCount": 897,
+    "LaunchYear": 2022,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 88,
+    "Category": "HomeGoods",
+    "Price": 2824,
+    "Rating": 1.3,
+    "ReviewsCount": 775,
+    "LaunchYear": 2022,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 89,
+    "Category": "HomeGoods",
+    "Price": 3119,
+    "Rating": 4.3,
+    "ReviewsCount": 616,
+    "LaunchYear": 2024,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 90,
+    "Category": "HomeGoods",
+    "Price": 1699,
+    "Rating": 3.5,
+    "ReviewsCount": 412,
+    "LaunchYear": 2021,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 91,
+    "Category": "HomeGoods",
+    "Price": 5928,
+    "Rating": 3.2,
+    "ReviewsCount": 868,
+    "LaunchYear": 2018,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 92,
+    "Category": "HomeGoods",
+    "Price": 3810,
+    "Rating": 3.9,
+    "ReviewsCount": 547,
+    "LaunchYear": 2019,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 93,
+    "Category": "HomeGoods",
+    "Price": 1737,
+    "Rating": 4.5,
+    "ReviewsCount": 735,
+    "LaunchYear": 2022,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 94,
+    "Category": "Clothing",
+    "Price": 1568,
+    "Rating": 4.0,
+    "ReviewsCount": 866,
+    "LaunchYear": 2018,
+    "PromotionApplied": "No"
+  },
+  {
+    "ProductID": 95,
+    "Category": "HomeGoods",
+    "Price": 2159,
+    "Rating": 3.0,
+    "ReviewsCount": 728,
+    "LaunchYear": 2023,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 96,
+    "Category": "HomeGoods",
+    "Price": 2274,
+    "Rating": 1.2,
+    "ReviewsCount": 444,
+    "LaunchYear": 2018,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 97,
+    "Category": "Electronics",
+    "Price": 2602,
+    "Rating": 4.8,
+    "ReviewsCount": 734,
+    "LaunchYear": 2021,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 98,
+    "Category": "Clothing",
+    "Price": 7036,
+    "Rating": 2.8,
+    "ReviewsCount": 98,
+    "LaunchYear": 2021,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 99,
+    "Category": "Clothing",
+    "Price": 1512,
+    "Rating": 4.0,
+    "ReviewsCount": 150,
+    "LaunchYear": 2018,
+    "PromotionApplied": "Yes"
+  },
+  {
+    "ProductID": 100,
+    "Category": "Electronics",
+    "Price": 3082,
+    "Rating": 5.0,
+    "ReviewsCount": 633,
+    "LaunchYear": 2022,
+    "PromotionApplied": "Yes"
+  }
+]
